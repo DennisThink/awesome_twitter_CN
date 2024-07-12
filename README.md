@@ -1,7 +1,7 @@
 # awesome_twitter_CN
 
 这是一个值得关注的中文twitter用户列表，起因是我刚开始使用twitter的时候，不知道关注谁。有一些很好的推特用户，也没有人关注。所以制作了这个列表。
-欢迎大家踊跃推荐自己觉得的不错的中文twitter用户，(色情、政治)内容除外。
+欢迎大家踊跃推荐自己觉得的不错的中文twitter用户，(色情、政治)内容除外，排名不分先后。
 
 |用户名|领域、关键词|twitter地址|
 |----|------|----|
@@ -19,3 +19,10 @@
 |javayhu|海棠诗社|[javayhu](https://x.com/javayhu)|
 |nextify2024|saasfly作者|[nextify2024](https://x.com/nextify2024)|
 |xiongchun007|Datacollie作者|[xiongchun007](https://x.com/xiongchun007)|
+|yihong0618|喜欢王小波|[yihong0618](https://x.com/yihong0618)|
+|yihui_indie|小报童|[yihui_indie](https://x.com/yihui_indie)|
+|goocarlos|Dify_AI|[goocarlos](https://x.com/goocarlos)|
+|ruanyf|阮一峰|[ruanyf](https://x.com/ruanyf)|
+|appinn|小众软件|[小众软件](https://x.com/appinn)|
+|turingou|Retired. ex ByteDancer|[turingou](https://x.com/turingou)|
+|Linmiv|Notion 中文社区负责人|[Linmiv](https://x.com/Linmiv)|
