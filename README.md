@@ -5,7 +5,7 @@
 
 |用户名|领域、关键词|twitter地址|
 |----|------|----|
-|reiheitYu|软件开发,《精通正则表达式》译者|[reiheitYu](https://x.com/FreiheitYu)|
+|reiheitYu|软件开发, 《精通正则表达式》译者|[reiheitYu](https://x.com/FreiheitYu)|
 |nateleex|AI出海|[nateleex](https://x.com/nateleex)|
 |yuxiyou|Vue作者|[yuxiyou](https://x.com/yuxiyou)|
 |xushiwei|Go, 七牛云|[xushiwei](https://x.com/xushiwei)|
@@ -14,3 +14,8 @@
 |Baye|自由程序员，熊猫吃短信|[waylybaye](https://x.com/waylybaye)|
 |dotey|最新AI资讯|[dotey](https://x.com/dotey)|
 |manateelazycat|Deepin|[manateelazycat](https://x.com/manateelazycat)|
+|middlefeng|C++, Graphics|[middlefeng](https://x.com/middlefeng)|
+|DLKFZWilliam|独立开发者|[DLKFZWilliam](https://x.com/DLKFZWilliam)|
+|javayhu|海棠诗社|[javayhu](https://x.com/javayhu)|
+|nextify2024|saasfly作者|[nextify2024](https://x.com/nextify2024)|
+|xiongchun007|Datacollie作者|[xiongchun007](https://x.com/xiongchun007)|
