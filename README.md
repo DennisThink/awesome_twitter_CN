@@ -37,3 +37,5 @@
 |haoel|MegaEase Inc. Founder、陈皓，左耳朵皓子|[haoel](https://x.com/haoel)|
 |huihoo|自由软件计算机科学、数学物理学音乐爱好者|[huihoo](https://x.com/huihoo)|
 |knowledgefxg|知识分享官|[knowledgefxg](https://x.com/knowledgefxg)|
+|hixiaoji|吉光卡片作者|[hixiaoji](https://x.com/hixiaoji)|
+|bnu_chenshuo|Software developer，Muduo作者|[bnu_chenshuo](https://x.com/bnu_chenshuo)|
