@@ -26,3 +26,12 @@
 |appinn|小众软件|[小众软件](https://x.com/appinn)|
 |turingou|Retired. ex ByteDancer|[turingou](https://x.com/turingou)|
 |Linmiv|Notion 中文社区负责人|[Linmiv](https://x.com/Linmiv)|
+|chenbimo|农村程序员 + 网文小说作者|[chenbimo](https://x.com/chenbimo)|
+|feltanimalworld|学习博主, 理科妈妈。|[feltanimalworld](https://x.com/feltanimalworld)|
+|mrbear1024|熊老板、学习型博主|[mrbear1024](https://x.com/mrbear1024)|
+|xiaopeng163|Cloud DevOps Engineer，麦兜搞IT|[xiaopeng163](https://x.com/xiaopeng163)|
+|AgileQuery|Agile Query作者|[AgileQuery](https://x.com/AgileQuery)|
+|tison1096||[tison1096](https://x.com/tison1096)|
+|RyanMfer|Founder@Spark Lab|[RyanMfer](https://x.com/RyanMfer)|
+|zhugezifang|前京东、BAT程序员,AI助手|[zhugezifang](https://x.com/zhugezifang)|
+|haoel|MegaEase Inc. Founder、陈皓，左耳朵皓子|[haoel](https://x.com/haoel)|
