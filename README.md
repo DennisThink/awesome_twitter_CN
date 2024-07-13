@@ -39,3 +39,5 @@
 |knowledgefxg|知识分享官|[knowledgefxg](https://x.com/knowledgefxg)|
 |hixiaoji|吉光卡片作者|[hixiaoji](https://x.com/hixiaoji)|
 |bnu_chenshuo|Software developer，Muduo作者|[bnu_chenshuo](https://x.com/bnu_chenshuo)|
+|gefei55|哥飞，出海鼓励师，SEO专家，Adsense玩家，出海AI工具方向创业者。|[gefei55](https://x.com/gefei55)|
+
