@@ -43,3 +43,5 @@
 |Wang Shuyi|天津师范大学副教授|[wshuyi](https://x.com/wshuyi)|
 |felixding| Founder of Ruo Yu|[felixding](https://x.com/felixding)|
 |huangzworks|计算机图书译者(黄建宏)《Redis设计与实现》、《Redis使用手册》，译有《SQL实战（第2版）》、《Redis实战》、《Go语言趣学指南》、《Go Web编程》|[huangzworks](https://x.com/huangzworks)|
+|zhufengme|The founders of http://dao.fm and http://wav.pub|[zhufengme](https://x.com/zhufengme)|
+|marchliu|热爱美好的生活，智慧与真理|[marchliu](https://x.com/marchliu)|
