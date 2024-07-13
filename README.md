@@ -37,3 +37,4 @@
 |haoel|MegaEase Inc. Founder、陈皓，左耳朵皓子|[haoel](https://x.com/haoel)|
 |huihoo|自由软件计算机科学、数学物理学音乐爱好者|[huihoo](https://x.com/huihoo)|
 |knowledgefxg|知识分享官|[knowledgefxg](https://x.com/knowledgefxg)|
+|gefei55|哥飞，出海鼓励师，SEO专家，Adsense玩家，出海AI工具方向创业者。|[gefei55](https://x.com/gefei55)|
