@@ -42,3 +42,4 @@
 |gefei55|哥飞，出海鼓励师，SEO专家，Adsense玩家，出海AI工具方向创业者。|[gefei55](https://x.com/gefei55)|
 |Wang Shuyi|天津师范大学副教授|[wshuyi](https://x.com/wshuyi)|
 |felixding| Founder of Ruo Yu|[felixding](https://x.com/felixding)|
+|huangzworks|计算机图书译者(黄建宏)《Redis设计与实现》、《Redis使用手册》，译有《SQL实战（第2版）》、《Redis实战》、《Go语言趣学指南》、《Go Web编程》|[huangzworks](https://x.com/huangzworks)|
