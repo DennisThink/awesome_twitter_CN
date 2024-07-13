@@ -35,3 +35,5 @@
 |RyanMfer|Founder@Spark Lab|[RyanMfer](https://x.com/RyanMfer)|
 |zhugezifang|前京东、BAT程序员,AI助手|[zhugezifang](https://x.com/zhugezifang)|
 |haoel|MegaEase Inc. Founder、陈皓，左耳朵皓子|[haoel](https://x.com/haoel)|
+|huihoo|自由软件计算机科学、数学物理学音乐爱好者|[huihoo](https://x.com/huihoo)|
+|knowledgefxg|知识分享官|[knowledgefxg](https://x.com/knowledgefxg)|
