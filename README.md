@@ -46,3 +46,4 @@
 |zhufengme|The founders of http://dao.fm and http://wav.pub|[zhufengme](https://x.com/zhufengme)|
 |marchliu|热爱美好的生活，智慧与真理|[marchliu](https://x.com/marchliu)|
 |Glowin|Co-founder of http://juejin.cn,掘金联合创始人|[Glowin](https://x.com/glow1n)|
+|li_wujie|独立开发沉思录|[li_wujie](https://x.com/li_wujie)|
