@@ -82,3 +82,4 @@
 |arui_kisi|UX Designer、终身学习、摇滚|[arui_kisi](https://x.com/arui_kisi)|
 |Bitturing|泛互联网、科技、AI|[Bitturing](https://x.com/Bitturing)|
 |ccbikai|前端切图仔🧑🏻‍💻，后端三脚猫🤷🏻‍♂️，运维挖坑人|[ccbikai](https://x.com/ccbikai)|
+weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手艺人 | [weijunext](https://x.com/weijunext)
