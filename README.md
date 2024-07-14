@@ -79,3 +79,5 @@
 |hwwaanng|独立开发 iOS apps|[hwwaanng](https://x.com/hwwaanng)|
 |MapleShadow|一个苹果开发者|[MapleShadow](https://x.com/MapleShadow)|
 |lexrus|iOS/macOS开发|[lexrus](https://x.com/lexrus)|
+|arui_kisi|UX Designer、终身学习、摇滚|[arui_kisi](https://x.com/arui_kisi)|
+|Bitturing|泛互联网、科技、AI|[Bitturing](https://x.com/Bitturing)|
