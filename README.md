@@ -68,3 +68,14 @@
 |星酱seii|東京女子、日本語先生（学日语/翻译/口语私信）|[星酱seii](https://x.com/yosei8964)|
 |seclink|创业（冷启动）、AI、AIGC|[seclink](https://x.com/seclink)|
 |kuizuo|专注TS全栈开发|[kuizuo](https://x.com/kuizuo)|
+|harryworld|Platforms Instructor|[harryworld](https://x.com/harryworld)|
+|CoooolXyh|前端工程师、Zeabur 联合创始人、独立开发者 |[CoooolXyh](https://x.com/CoooolXyh)|
+|DIGITALYCHEE|We promote & distribute software in CHINA|[DIGITALYCHEE](https://x.com/DIGITALYCHEE)|
+|davidchen2024|连续创业者、独立开发|[davidchen2024](https://x.com/davidchen2024)|
+|taro_dict|芋圓字典作者|[taro_dict](https://x.com/taro_dict)|
+|ihower|生成式 AI 全端工程師、愛好 AI Engineer 電子報|[ihower](https://x.com/ihower)|
+|ethanhuang13|iOS Developer. Co-host of @weak_self podcast|[ethanhuang13](https://x.com/ethanhuang13)|
+|PeterTW777|想退休做甜點的 iOS 工程師|[PeterTW777](https://x.com/PeterTW777)|
+|hwwaanng|独立开发 iOS apps|[hwwaanng](https://x.com/hwwaanng)|
+|MapleShadow|一个苹果开发者|[MapleShadow](https://x.com/MapleShadow)|
+|lexrus|iOS/macOS开发|[lexrus](https://x.com/lexrus)|
