@@ -82,4 +82,8 @@
 |arui_kisi|UX Designer、终身学习、摇滚|[arui_kisi](https://x.com/arui_kisi)|
 |Bitturing|泛互联网、科技、AI|[Bitturing](https://x.com/Bitturing)|
 |ccbikai|前端切图仔🧑🏻‍💻，后端三脚猫🤷🏻‍♂️，运维挖坑人|[ccbikai](https://x.com/ccbikai)|
-weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手艺人 | [weijunext](https://x.com/weijunext)
+weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手艺人 | [weijunext](https://x.com/weijunext)|
+|pingchn|Creator of @ideashellAI|[pingchn](https://x.com/pingchn)|
+|leafwind|寫作、攝影、JAPAN、軟體工程師|[leafwind](https://x.com/leafwind)|
+|fetalkpodcast|在溫哥華科技公司擔任資深前端工程師|[fetalkpodcast](https://x.com/fetalkpodcast)|
+|hhmy27|一个不上班的人，正试图用代码养活自己|[hhmy27](https://x.com/hhmy27)|
