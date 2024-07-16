@@ -6,22 +6,22 @@
 ### DennisThink推荐:
 
 
-> [reiheitYu](https://x.com/FreiheitYu)
+> [reiheitYu](https://x.com/FreiheitYu)    
 > **推荐理由**: 作为技术翻译者，译有《精通正则表达式》《代码整洁之道》《成为技术领导者》 《技术领导之路(中英文对照)》《简约之美》《程序员的职业素养》等作品。其公众号《余晟以为》也非常的不错，推荐大家关注。
 
 
-> [nateleex](https://x.com/nateleex)
+> [nateleex](https://x.com/nateleex)     
 > **推荐理由**：作为创业公司CEO，经历传奇，曾录制围棋教学视频并盈利，电竞游戏获奖选手。作为视频博主，在Bilibili有20W的follower，视频内容涉及商业，创业等多个领域，拍摄风格主打一镜到底，推荐大家关注。
 
-> [feltanimalworld](https://x.com/feltanimalworld)
-> 学习博主, 理科妈妈。女性转CS/EE，我劝文科生用GPT学CS，理科生用GPT写文学。探讨免费的STEM高等教育。
+> [feltanimalworld](https://x.com/feltanimalworld)      
+>  **推荐理由**：学习博主, 理科妈妈。女性转CS/EE，我劝文科生用GPT学CS，理科生用GPT写文学。探讨免费的STEM高等教育。
 > STEM Education, computer science, electronics engineering方向。
 
-> [yuxiyou](https://x.com/yuxiyou)
-> 著名前端框架Vue的作者。
+> [yuxiyou](https://x.com/yuxiyou)        
+> **推荐理由**： 著名前端框架Vue的作者。
 
-> [xushiwei](https://x.com/xushiwei)
-> 七牛云存储的CEO，golang布道者。go+作者。想了解golang的朋友可以关注一下。
+> [xushiwei](https://x.com/xushiwei)      
+> **推荐理由**： 七牛云存储的CEO，golang布道者。go+作者。想了解golang的朋友可以关注一下。
 
 
 
