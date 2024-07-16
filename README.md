@@ -13,6 +13,18 @@
 > [nateleex](https://x.com/nateleex)
 > **推荐理由**：作为创业公司CEO，经历传奇，曾录制围棋教学视频并盈利，电竞游戏获奖选手。作为视频博主，在Bilibili有20W的follower，视频内容涉及商业，创业等多个领域，拍摄风格主打一镜到底，推荐大家关注。
 
+> [feltanimalworld](https://x.com/feltanimalworld)
+> 学习博主, 理科妈妈。女性转CS/EE，我劝文科生用GPT学CS，理科生用GPT写文学。探讨免费的STEM高等教育。
+> STEM Education, computer science, electronics engineering方向。
+
+> [yuxiyou](https://x.com/yuxiyou)
+> 著名前端框架Vue的作者。
+
+> [xushiwei](https://x.com/xushiwei)
+> 七牛云存储的CEO，golang布道者。go+作者。想了解golang的朋友可以关注一下。
+
+
+
 
 
 
@@ -21,12 +33,12 @@
 
 ### 推荐列表:
 
-|用户名|领域、关键词|twitter地址|
-|----|------|----|
-|reiheitYu|软件开发, 《精通正则表达式》译者|[reiheitYu](https://x.com/FreiheitYu)|
-|nateleex|AI出海|[nateleex](https://x.com/nateleex)|
-|yuxiyou|Vue作者|[yuxiyou](https://x.com/yuxiyou)|
-|xushiwei|Go, 七牛云|[xushiwei](https://x.com/xushiwei)|
+|用户名|领域、关键词|twitter地址|详细介绍|
+|----|------|----|-------|
+|reiheitYu|软件开发, 《精通正则表达式》译者|[reiheitYu](https://x.com/FreiheitYu)|*|
+|nateleex|AI出海|[nateleex](https://x.com/nateleex)|*|
+|yuxiyou|Vue作者|[yuxiyou](https://x.com/yuxiyou)|*|
+|xushiwei|Go, 七牛云|[xushiwei](https://x.com/xushiwei)|*|
 |skywind3000|游戏开发|[skywind3000](https://x.com/skywind3000)|
 |vikingmute|简单简历|[vikingmute](https://x.com/vikingmute)|
 |Baye|自由程序员，熊猫吃短信|[waylybaye](https://x.com/waylybaye)|
@@ -87,3 +99,4 @@ weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手�
 |leafwind|寫作、攝影、JAPAN、軟體工程師|[leafwind](https://x.com/leafwind)|
 |fetalkpodcast|在溫哥華科技公司擔任資深前端工程師|[fetalkpodcast](https://x.com/fetalkpodcast)|
 |hhmy27|一个不上班的人，正试图用代码养活自己|[hhmy27](https://x.com/hhmy27)|
+|indigo11|Co-founder of http://Hallid.ai / Partner of Brilliant Phoenix|[indigo11](https://x.com/indigo11)|
