@@ -103,3 +103,11 @@ weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手�
 |decohack|IndieHacker / Designer / Photographer|[decohack](https://x.com/decohack)|
 |geekplux|生活推 Always exploring. 欢迎 DM|[geekplux](https://x.com/geekplux)|
 |henices|终生学习者 程序员  安全研究员 |[henices](https://x.com/henices)|
+|lyc_zh|出海去创始人|[lyc_zh](https://x.com/lyc_zh)|
+|JourneymanChina| All In 出海, 斜杠中年 ,分享被动收入经验|[JourneymanChina](https://x.com/JourneymanChina)|
+|huangyun_122|BI TechLead, database technology fan|[huangyun_122](https://x.com/huangyun_122)|
+|vista8|爱钓鱼、喜欢听摇滚乐、每天洗冷水澡的PM |[vista8](https://x.com/vista8)|
+|lewangdev|小码哥，玩转大模型 AI 玩具|[lewangdev](https://x.com/lewangdev)|
+|thinkingjimmy|工具产品爱好者,Keep Building,努力让更多的人用上 AI|[thinkingjimmy](https://x.com/thinkingjimmy)|
+|shengxj1|不爱上班的程序员, 靠谱的前端讲师， 卖课为生，前端 Web3  程序员英语 私教, 独立开发,努力做最好的程序员讲师|[shengxj1](https://x.com/shengxj1)|
+|meathill1|好吃好玩好写代码。全栈工程师，兴趣使然的开发者和分享者。|[meathill1](https://x.com/meathill1)|
