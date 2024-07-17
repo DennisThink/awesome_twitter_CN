@@ -117,3 +117,6 @@ weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手�
 |CZXNew|Web应用独立开发者,🌍7年小程序生态经验|[CZXNew](https://x.com/CZXNew)|
 |henuwangkai|松鼠快看,一站式追踪全网内容（公众号、播客、B站等）更新|[henuwangkai](https://x.com/henuwangkai)|
 |YosefBlockchain|创业者/投资人。|[YosefBlockchain](https://x.com/YosefBlockchain)|
+|cesihai1|做一个爱分享努力寻找alpha的人！目前旅居清迈，摩托爱好者|[cesihai1](https://x.com/cesihai1)|
+|qloog|自由职业者,后端(Go，PHP，Python，Node)，TS |[qloog](https://x.com/qloog)|*|
+|johnny____11|iOS 工程師、半個獨立開發者、獨立開發甘苦談|[johnny____11](https://x.com/johnny____11)|
