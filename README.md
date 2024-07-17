@@ -5,16 +5,14 @@
 
 ### DennisThink推荐:
 
-
 > [reiheitYu](https://x.com/FreiheitYu)    
 > **推荐理由**: 作为技术翻译者，译有《精通正则表达式》《代码整洁之道》《成为技术领导者》 《技术领导之路(中英文对照)》《简约之美》《程序员的职业素养》等作品。其公众号《余晟以为》也非常的不错，推荐大家关注。
-
 
 > [nateleex](https://x.com/nateleex)     
 > **推荐理由**：作为创业公司CEO，经历传奇，曾录制围棋教学视频并盈利，电竞游戏获奖选手。作为视频博主，在Bilibili有20W的follower，视频内容涉及商业，创业等多个领域，拍摄风格主打一镜到底，推荐大家关注。
 
 > [feltanimalworld](https://x.com/feltanimalworld)      
->  **推荐理由**：学习博主, 理科妈妈。女性转CS/EE，我劝文科生用GPT学CS，理科生用GPT写文学。探讨免费的STEM高等教育。
+> **推荐理由**：学习博主, 理科妈妈。女性转CS/EE，我劝文科生用GPT学CS，理科生用GPT写文学。探讨免费的STEM高等教育。
 > STEM Education, computer science, electronics engineering方向。
 
 > [yuxiyou](https://x.com/yuxiyou)        
@@ -23,15 +21,14 @@
 > [xushiwei](https://x.com/xushiwei)      
 > **推荐理由**： 七牛云存储的CEO，golang布道者。go+作者。想了解golang的朋友可以关注一下。
 
-
-
-
 ## 领域
 
-[AI相关](./AI/Twitter_About_AI.md)
-
-
-
+|           领域           |       领域            |
+|-------|-------|
+|[AI相关](./AI/Twitter_About_AI.md)|[软件出海](./overseas/over_seas.md)|
+|[创业](./startup/startup.md)|[后端](./backend/backend.md)
+|[前端](./frontend/frontend.md)|[技术交流](./skill_exchange/skill_exchange.md)|
+|[商业合作](./cooperation/cooperation.md)|[线下聚会](./offline_meeting/offline_meeting.md)
 
 ### 推荐列表:
 
@@ -65,7 +62,7 @@
 |AgileQuery|Agile Query作者|[AgileQuery](https://x.com/AgileQuery)|
 |tison1096||[tison1096](https://x.com/tison1096)|
 |RyanMfer|Founder@Spark Lab|[RyanMfer](https://x.com/RyanMfer)|
-|zhugezifang|前京东、BAT程序员,AI助手|[zhugezifang](https://x.com/zhugezifang)|
+|zhugezifang|前京东、BAT程序员, AI助手|[zhugezifang](https://x.com/zhugezifang)|
 |haoel|MegaEase Inc. Founder、陈皓，左耳朵皓子|[haoel](https://x.com/haoel)|
 |huihoo|自由软件计算机科学、数学物理学音乐爱好者|[huihoo](https://x.com/huihoo)|
 |knowledgefxg|知识分享官|[knowledgefxg](https://x.com/knowledgefxg)|
@@ -106,11 +103,11 @@ weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手�
 |geekplux|生活推 Always exploring. 欢迎 DM|[geekplux](https://x.com/geekplux)|
 |henices|终生学习者 程序员  安全研究员 |[henices](https://x.com/henices)|
 |lyc_zh|出海去创始人|[lyc_zh](https://x.com/lyc_zh)|
-|JourneymanChina| All In 出海, 斜杠中年 ,分享被动收入经验|[JourneymanChina](https://x.com/JourneymanChina)|
+|JourneymanChina| All In 出海, 斜杠中年 , 分享被动收入经验|[JourneymanChina](https://x.com/JourneymanChina)|
 |huangyun_122|BI TechLead, database technology fan|[huangyun_122](https://x.com/huangyun_122)|
 |vista8|爱钓鱼、喜欢听摇滚乐、每天洗冷水澡的PM |[vista8](https://x.com/vista8)|
 |lewangdev|小码哥，玩转大模型 AI 玩具|[lewangdev](https://x.com/lewangdev)|
-|thinkingjimmy|工具产品爱好者,Keep Building,努力让更多的人用上 AI|[thinkingjimmy](https://x.com/thinkingjimmy)|
-|shengxj1|不爱上班的程序员, 靠谱的前端讲师， 卖课为生，前端 Web3  程序员英语 私教, 独立开发,努力做最好的程序员讲师|[shengxj1](https://x.com/shengxj1)|
+|thinkingjimmy|工具产品爱好者, Keep Building, 努力让更多的人用上 AI|[thinkingjimmy](https://x.com/thinkingjimmy)|
+|shengxj1|不爱上班的程序员, 靠谱的前端讲师， 卖课为生，前端 Web3  程序员英语 私教, 独立开发, 努力做最好的程序员讲师|[shengxj1](https://x.com/shengxj1)|
 |meathill1|好吃好玩好写代码。全栈工程师，兴趣使然的开发者和分享者。|[meathill1](https://x.com/meathill1)|
 |ailiangzi|推荐我自己，ai，创业|[ailiangzi](https://x.com/ailiangzi)|
