@@ -111,3 +111,4 @@ weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手�
 |thinkingjimmy|工具产品爱好者,Keep Building,努力让更多的人用上 AI|[thinkingjimmy](https://x.com/thinkingjimmy)|
 |shengxj1|不爱上班的程序员, 靠谱的前端讲师， 卖课为生，前端 Web3  程序员英语 私教, 独立开发,努力做最好的程序员讲师|[shengxj1](https://x.com/shengxj1)|
 |meathill1|好吃好玩好写代码。全栈工程师，兴趣使然的开发者和分享者。|[meathill1](https://x.com/meathill1)|
+|ailiangzi|推荐我自己，ai，创业|[ailiangzi](https://x.com/ailiangzi)|
