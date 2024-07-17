@@ -1,4 +1,4 @@
-# awesome_twitter_CN
+# [awesome_twitter_CN](https://github.com/DennisThink/awesome_twitter_CN)
 
 这是一个值得关注的中文twitter用户列表，起因是我刚开始使用twitter的时候，不知道关注谁。有一些很好的推特用户，也没有人关注。所以制作了这个列表。
 欢迎大家踊跃推荐自己觉得的不错的中文twitter用户，(色情、政治)内容除外，排名不分先后。
@@ -19,7 +19,7 @@
 > **推荐理由**： 著名前端框架Vue的作者。
 
 > [xushiwei](https://x.com/xushiwei)      
-> **推荐理由**： 七牛云存储的CEO，golang布道者。go+作者。想了解golang的朋友可以关注一下。
+> **推荐理由**： WPS 2005 的首席架构师,曾在盛大、金山从事技术研究工作。七牛云存储的CEO，golang布道者。go+作者。著有《Go语言编程》。
 
 ## 领域
 
@@ -38,7 +38,7 @@
 |nateleex|AI出海|[nateleex](https://x.com/nateleex)|*|
 |yuxiyou|Vue作者|[yuxiyou](https://x.com/yuxiyou)|*|
 |xushiwei|Go, 七牛云|[xushiwei](https://x.com/xushiwei)|*|
-|skywind3000|游戏开发|[skywind3000](https://x.com/skywind3000)|
+|skywind3000|游戏开发|[skywind3000](https://x.com/skywind3000)||
 |vikingmute|简单简历|[vikingmute](https://x.com/vikingmute)|
 |Baye|自由程序员，熊猫吃短信|[waylybaye](https://x.com/waylybaye)|
 |dotey|最新AI资讯|[dotey](https://x.com/dotey)|
@@ -111,3 +111,9 @@ weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手�
 |shengxj1|不爱上班的程序员, 靠谱的前端讲师， 卖课为生，前端 Web3  程序员英语 私教, 独立开发, 努力做最好的程序员讲师|[shengxj1](https://x.com/shengxj1)|
 |meathill1|好吃好玩好写代码。全栈工程师，兴趣使然的开发者和分享者。|[meathill1](https://x.com/meathill1)|
 |ailiangzi|推荐我自己，ai，创业|[ailiangzi](https://x.com/ailiangzi)|
+|dingyi|Product designer & design engineer|[dingyi](https://x.com/dingyi)|
+|hal__lee|设计爱好者，偶尔写写代码，说说冷笑话|[hal__lee](https://x.com/hal__lee)|
+|shao__meng|Web & AI 技术爱好者,致力于 AI 的研究与实践应用,分享 AI 资讯、论文、开源项目和产品 |[shao__meng](https://x.com/shao__meng)|
+|CZXNew|Web应用独立开发者,🌍7年小程序生态经验|[CZXNew](https://x.com/CZXNew)|
+|henuwangkai|松鼠快看,一站式追踪全网内容（公众号、播客、B站等）更新|[henuwangkai](https://x.com/henuwangkai)|
+|YosefBlockchain|创业者/投资人。|[YosefBlockchain](https://x.com/YosefBlockchain)|
