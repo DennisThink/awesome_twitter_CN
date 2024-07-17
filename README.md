@@ -28,7 +28,7 @@
 
 ## 领域
 
-![AI相关](./AI/Twitter_About_AI.md)
+[AI相关](./AI/Twitter_About_AI.md)
 
 
 
