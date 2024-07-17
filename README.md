@@ -100,3 +100,6 @@ weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手�
 |fetalkpodcast|在溫哥華科技公司擔任資深前端工程師|[fetalkpodcast](https://x.com/fetalkpodcast)|
 |hhmy27|一个不上班的人，正试图用代码养活自己|[hhmy27](https://x.com/hhmy27)|
 |indigo11|Co-founder of http://Hallid.ai / Partner of Brilliant Phoenix|[indigo11](https://x.com/indigo11)|
+|decohack|IndieHacker / Designer / Photographer|[decohack](https://x.com/decohack)|
+|geekplux|生活推 Always exploring. 欢迎 DM|[geekplux](https://x.com/geekplux)|
+|henices|终生学习者 程序员  安全研究员 |[henices](https://x.com/henices)|
