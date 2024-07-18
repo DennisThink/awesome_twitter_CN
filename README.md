@@ -21,6 +21,9 @@
 > [xushiwei](https://x.com/xushiwei)      
 > **推荐理由**： WPS 2005 的首席架构师,曾在盛大、金山从事技术研究工作。七牛云存储的CEO，golang布道者。go+作者。著有《Go语言编程》。
 
+> [nishuang](https://x.com/nishuang) 
+> **推荐理由**：倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务.
+
 ## 领域
 
 |           领域           |       领域            |
@@ -120,3 +123,10 @@ weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手�
 |cesihai1|做一个爱分享努力寻找alpha的人！目前旅居清迈，摩托爱好者|[cesihai1](https://x.com/cesihai1)|
 |qloog|自由职业者,后端(Go，PHP，Python，Node)，TS |[qloog](https://x.com/qloog)|*|
 |johnny____11|iOS 工程師、半個獨立開發者、獨立開發甘苦談|[johnny____11](https://x.com/johnny____11)|
+|nishuang|倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务。|[nishuang](https://x.com/nishuang)|
+|DashHuang|心动公司 CEO，TapTap、VeryCD创始人。|[DashHuang](https://x.com/DashHuang)|
+|robbinfan|范凯，现在是个人公司，曾创办JavaEye，前丁香园CTO|[robbinfan](https://x.com/robbinfan)|
+|turingbook| CSDN. 图灵联合创始人。曾任：北京智源人工智能研究院副院长，CSDN&《程序员》杂志总编，美团技术学院院长。|[turingbook](https://x.com/turingbook)|
+|mujiang|Software craftsman    盛唐雄风 田园牧歌.|[mujiang](https://x.com/mujiang)|
+|csdncto|CSDN创始人蒋涛|[csdncto](https://x.com/csdncto)|
+|zhuangbiaowei|庄表伟|[zhuangbiaowei](https://x.com/zhuangbiaowei)|
