@@ -130,3 +130,26 @@ weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手�
 |mujiang|Software craftsman    盛唐雄风 田园牧歌.|[mujiang](https://x.com/mujiang)|
 |csdncto|CSDN创始人蒋涛|[csdncto](https://x.com/csdncto)|
 |zhuangbiaowei|庄表伟|[zhuangbiaowei](https://x.com/zhuangbiaowei)|
+|buaaxhm|会点开发，Node、Js、Typescript，正在学SwiftUI、Rust。 新口头禅：向AI讨口饭吃。本推特主要是发点生活日常、段子，所有想法仅代表个人观点。与公司立场无关！|[buaaxhm](https://x.com/buaaxhm)|
+|nmdfzf404|全沾开发者 ✨ 白日梦想家|[nmdfzf404](https://x.com/nmdfzf404)|
+|AndyRoamer|筹备旅居中、独立开发者、后厂村产品经理、AI时代原住民、户外爱好者、Vlog博主|[AndyRoamer](https://x.com/AndyRoamer)|
+|wsygc|co-founder of http://voce.chat, owner of http://sinqi.tools /|[wsygc](https://x.com/wsygc)|
+|monk_robot|努力成为独立开发者的程序员，代办日本经营管理签证、日本投资|[monk_robot](https://x.com/monk_robot)|
+|daniu1719|程序员一枚，各种开发瞎鼓捣|[daniu1719](https://x.com/daniu1719)|
+|remixdesigner|一半产品，一半设计；一边自驱，一边拖延；喜欢有趣的工具，也热衷于创造工具。 开源项目 http://remixicon.com|[remixdesigner](https://x.com/remixdesigner)|
+|imtigerchew|曾在腾讯，阿里撸码，交过3000万+学费的创业者，but 现在不创业了，是个纯生意人。|[imtigerchew](https://x.com/imtigerchew)|
+|ikennylin|古典PM+自学独立开发，做了几个App、计算器：真好算、习惯打卡：DayMark、待办清单：MarkTodo、情绪记录：OneMood|[ikennylin](https://x.com/ikennylin)|
+|balconychy|探索，分享，不设限，独立开发者，拥抱AI，Think in public, INTJ，|[balconychy](https://x.com/balconychy)|
+|catmangox|人在陆家嘴，已经肉身移民法国和日本。海带级金融从业人员，业余金融分析师，专业母猫配种。V2EX老成员，现在已经穷的一无所有，还剩下32万贷款。我买房都是为了我的猫！现已任职日本创意初创房企京阪住業株式会社CTO。|[catmangox](https://x.com/catmangox)|
+|oran_ge|AGI/acc、ex PM of 海螺AI@MiniMax、Think Aloud、Passionately Curious、Building Good Karma|[oran_ge](https://x.com/oran_ge)|
+|river_leaves|会写代码和下厨的产品经理/文理法工农医|[river_leaves](https://x.com/river_leaves)|
+|HiTw93|妙言、Pake、潮流周刊、XRender 作者|[HiTw93](https://x.com/HiTw93)|
+|trojantale|Full stack developer, 阿森纳死忠, 前大厂员工, 目前待业|[trojantale](https://x.com/trojantale)|
+|9yearfish|10 年程序员独立开发了一个小众行业的 ERP，服务国内头部商家.今年目标 2B 业务的新产品出海必须盈利,主要是个独立开发的日常推|[9yearfish](https://x.com/9yearfish)|
+|leoxoocanada|程序猿 / 前端 / 全栈 / 努力做个数字游民 / 骑行 /|[leoxoocanada](https://x.com/leoxoocanada)|
+|i5ting|关注Apple Vision Pro和Moonbit，只聊技术和生活，仅代表个人观点！|[i5ting](https://x.com/i5ting)|
+|blankwebdev|前腾讯高级开发，2024.7 开始独立开发|[blankwebdev](https://x.com/blankwebdev)|
+|boo_hz|海外产品独立开发及运营经验|[boo_hz](https://x.com/boo_hz)|
+|tonyzhu1984|Founder, Own 3+ AI startups. 7年前从互联网产品经理转跨境电商，现在做AI出海项目。关注我，分享一些最新AI动态|[tonyzhu1984](https://x.com/tonyzhu1984)|
+|hongming731|十多年开发与架构经验，曾服务于顶尖电信、电商及证券公司 |[hongming731](https://x.com/hongming731)|
+|benshandebiao|写过浮生App，番茄打卡App，还有一些 AI 应用。腾讯、美团干过几年，现在暂得自由😜，争取成为全职独立开发者|[benshandebiao](https://x.com/benshandebiao)|
