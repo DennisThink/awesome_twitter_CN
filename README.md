@@ -153,3 +153,4 @@ weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手�
 |tonyzhu1984|Founder, Own 3+ AI startups. 7年前从互联网产品经理转跨境电商，现在做AI出海项目。关注我，分享一些最新AI动态|[tonyzhu1984](https://x.com/tonyzhu1984)|
 |hongming731|十多年开发与架构经验，曾服务于顶尖电信、电商及证券公司 |[hongming731](https://x.com/hongming731)|
 |benshandebiao|写过浮生App，番茄打卡App，还有一些 AI 应用。腾讯、美团干过几年，现在暂得自由😜，争取成为全职独立开发者|[benshandebiao](https://x.com/benshandebiao)|
+|tinyfool|Youtuber,20年老程序员，业已退休，不以写代码为主业。不是英语老师，但开发了"英语轻松读"，做了广受好评的学习英语的视频。心在日本，人目前在天津|[tinyfool](https://x.com/tinyfool)|
