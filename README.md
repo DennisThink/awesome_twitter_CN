@@ -154,3 +154,27 @@ weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手�
 |hongming731|十多年开发与架构经验，曾服务于顶尖电信、电商及证券公司 |[hongming731](https://x.com/hongming731)|
 |benshandebiao|写过浮生App，番茄打卡App，还有一些 AI 应用。腾讯、美团干过几年，现在暂得自由😜，争取成为全职独立开发者|[benshandebiao](https://x.com/benshandebiao)|
 |tinyfool|Youtuber,20年老程序员，业已退休，不以写代码为主业。不是英语老师，但开发了"英语轻松读"，做了广受好评的学习英语的视频。心在日本，人目前在天津|[tinyfool](https://x.com/tinyfool)|
+|whiteboardxcom|白板报 WhiteboardX|[whiteboardxcom](https://x.com/whiteboardxcom)|
+|CurtisChengC|做过独立开发者，并赚到钱、长期的生产力工具内容作者|[CurtisChengC](https://x.com/CurtisChengC)|
+|cui_xiaorui|一人公司、编程讲师&UP主、Earthworm 创始人|[cui_xiaorui](https://x.com/cui_xiaorui)|
+|hsin747|D100節目主持 心語|[hsin747](https://x.com/hsin747)|
+|StarKnight|時々日本語。两个小朋友的爸爸。|[StarKnight](https://x.com/StarKnight)|
+|easychen|方糖气球（ http://ftqq.com ）博主，80后大叔，萌物控。做原型、敲代码、写吐槽小说、制四格漫画。无业，玩独立开发，偶尔卖课为生。信息流诸多日本语、二次元、R18内容，关注需谨慎。|[easychen](https://x.com/easychen)|
+|AndrewBBoo|技能产品化（独立开发），收入资产化（价值投资），想法公开化（社交媒体）|[AndrewBBoo](https://x.com/AndrewBBoo)|
+|dev_afei|前端工程师 & 出海探索者,英推增长 (DM 领 7 折券)|[dev_afei](https://x.com/dev_afei)|
+|pekingmuge|幼时学艺，🤵少时混迹多家大厂，技术管理两手抓。 现数字游民，独立开发者，全栈技术老码农。🖥️ 、聊聊技术、做做分享、交个朋友|[pekingmuge](https://x.com/pekingmuge)|
+|ginhoor|独立App开发者、关注出海业务|[ginhoor](https://x.com/ginhoor)|
+|oulvhai|macOS/iOS 独立开发者, 已开发产品《MWeb》、《One Markdown》|[oulvhai](https://x.com/oulvhai)|
+|Tumeng05|TorchV AI（萌嘉网络）CEO,AI / LLM / RAG/ Agent / 创业公司 |[Tumeng05](https://x.com/Tumeng05)|
+|anqirocks|product @ ByteDance |[anqirocks](https://x.com/anqirocks)|
+|austinit|我是一名独立开发者，靠写代码养活自己。我会在 X 分享关于AI、钱、代码相关的东西。|[austinit](https://x.com/austinit)|
+|hzlzh|创造者 / 数字游民 / 前腾讯微信设计师 /|[hzlzh](https://x.com/hzlzh)|
+|cellinlab|INFP to ENFJ、💻 AI 应用开发者、🎙️《午睡到天亮》播客 、🤖 AGI 降临派 、🔗 超级链接者、🤝 巢级个体社群 发起人、💪 http://01flow.com 通过海量自由职业者案例、方法，让更多人看见、相信、成为独立工作者，做超级个体|[cellinlab](https://x.com/cellinlab)|
+|richriverspirit|极简主义创业者 / #独立开发者 / 全栈 / 95后 / 2010年起自学编程|[richriverspirit](https://x.com/richriverspirit)|
+|sailfishcc1|code、不聊政治、好好刷牙、尽量早睡晚起、好好锻炼|[sailfishcc1](https://x.com/sailfishcc1)|
+|hi_an_orange|尝试独立开发中、全栈工程师|[hi_an_orange](https://x.com/hi_an_orange)|
+|fengbuyou|希望世界和平、🎏 关注不可拟合的推文生成者，做人类观察|[fengbuyou](https://x.com/fengbuyou)|
+|ilovek8s|收集分享各种互联网垃圾 、全干工程师、尊贵的SRE(重启工程师)、AI时代中的弄潮儿  |[ilovek8s](https://x.com/ilovek8s)|
+|evanlong_zh|Created @chuhaituan & connecting with more outstanding products.|[evanlong_zh](https://x.com/evanlong_zh)|
+|xinbaocode|前端/全栈开发工程师、前字节/阿里大厂员工、远程工作的研究员、努力拥有自己的产品|[xinbaocode](https://x.com/xinbaocode)|
+|Amztion|iOS/ Web Dev；开车、骑行、旅行、拍照、有猫；无所事事，今天又顺利度过一天已经很厉害了。|[Amztion](https://x.com/Amztion)|
