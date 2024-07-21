@@ -178,3 +178,12 @@ weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手�
 |evanlong_zh|Created @chuhaituan & connecting with more outstanding products.|[evanlong_zh](https://x.com/evanlong_zh)|
 |xinbaocode|前端/全栈开发工程师、前字节/阿里大厂员工、远程工作的研究员、努力拥有自己的产品|[xinbaocode](https://x.com/xinbaocode)|
 |Amztion|iOS/ Web Dev；开车、骑行、旅行、拍照、有猫；无所事事，今天又顺利度过一天已经很厉害了。|[Amztion](https://x.com/Amztion)|
+|hagerhu|寒峰，胡怀国，💻 阿里十年，追求独立&自由|[hagerhu](https://x.com/hagerhu)|
+|liseami1|写点儿代码，写点儿书。胃之书App创始人。已出版小说集：《人生灿灿》、《坏一坏》。另有一套SwiftUI课程，在个人网站中。|[liseami1](https://x.com/liseami1)|
+|container202|前端程序员、美团骑手、独立开发者、一人企业CEO、作品：集美美图App|[container202](https://x.com/container202)|
+|oschina|开源中国创始人兼 CTO，目前主要精力在折腾 gitee 和 http://ai.gitee.com ，还在坚持写码|[oschina](https://x.com/oschina)|
+|junyu|Co-founder, Wandou Labs|[junyu](https://x.com/junyu)|
+|DigitalNomadLC|ChatGPT和AIGC、有趣的网站推荐、有用的软件（APP）推荐、境外银行卡、境外手机卡、各种新奇有趣的新产品。
+在合适的时候，也会分享一些【数字游民】和 Digital Marketing 的故事或教程。|[DigitalNomadLC](https://x.com/DigitalNomadLC)|
+|_kaichen|资深全栈开发工程师、🧠 AGI 信仰者 、🚀 e/acc 驱动的持续学习与对 AI/LLM 的长期关注”|[_kaichen](https://x.com/_kaichen)|
+|taoshenga19|闵祖涛,终身学习者，个人投资者，AI 自动驾驶从业者，阅读，写作，运动，智慧，健康，财富。 |[taoshenga19](https://x.com/taoshenga19)|
