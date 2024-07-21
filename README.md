@@ -183,7 +183,10 @@ weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手�
 |container202|前端程序员、美团骑手、独立开发者、一人企业CEO、作品：集美美图App|[container202](https://x.com/container202)|
 |oschina|开源中国创始人兼 CTO，目前主要精力在折腾 gitee 和 http://ai.gitee.com ，还在坚持写码|[oschina](https://x.com/oschina)|
 |junyu|Co-founder, Wandou Labs|[junyu](https://x.com/junyu)|
-|DigitalNomadLC|ChatGPT和AIGC、有趣的网站推荐、有用的软件（APP）推荐、境外银行卡、境外手机卡、各种新奇有趣的新产品。
-在合适的时候，也会分享一些【数字游民】和 Digital Marketing 的故事或教程。|[DigitalNomadLC](https://x.com/DigitalNomadLC)|
+|DigitalNomadLC|ChatGPT和AIGC、有趣的网站推荐、有用的软件（APP）推荐、境外银行卡、境外手机卡、各种新奇有趣的新产品。在合适的时候，也会分享一些【数字游民】和 Digital Marketing 的故事或教程。|[DigitalNomadLC](https://x.com/DigitalNomadLC)|
 |_kaichen|资深全栈开发工程师、🧠 AGI 信仰者 、🚀 e/acc 驱动的持续学习与对 AI/LLM 的长期关注”|[_kaichen](https://x.com/_kaichen)|
 |taoshenga19|闵祖涛,终身学习者，个人投资者，AI 自动驾驶从业者，阅读，写作，运动，智慧，健康，财富。 |[taoshenga19](https://x.com/taoshenga19)|
+|shamzaaz1|产品经理、互联网苦b、热衷翻译行业原版书、Geek、多重潜力者、爱吃爱下厨、半途而废的画家、另一条时间线上是建筑师、梦中滑翔伞教练、思维跳跃的理想主义者、萨满、主机玩家、卡丁车菜鸡选手、古典音乐瞎听专家、跑步姿势非常专业、|[shamzaaz1](https://x.com/shamzaaz1)|
+|spacewander_lzx|开源项目清道夫/前Apache APISIX和OpenResty核心开发者/一个工作在L4与L7接入层的程序员/观点仅代表本人意见|[spacewander_lzx](https://x.com/spacewander_lzx)|
+|CarsonYangk8s|Community Pollinator, Cloud Native Lover ☸️, Blogger, GFW fucker...、Sealos 开发者布道师，云原生技术爱好者，专注于 AI 与云原生技术研究、开源思想传播，个人博客：|[CarsonYangk8s](https://x.com/CarsonYangk8s)|
+|Piglei|程序员、《Python 工匠：案例、技巧与工程实践》作者 |[Piglei](https://x.com/Piglei)|
