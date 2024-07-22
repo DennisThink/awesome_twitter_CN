@@ -96,7 +96,7 @@
 |arui_kisi|UX Designer、终身学习、摇滚|[arui_kisi](https://x.com/arui_kisi)|
 |Bitturing|泛互联网、科技、AI|[Bitturing](https://x.com/Bitturing)|
 |ccbikai|前端切图仔🧑🏻‍💻，后端三脚猫🤷🏻‍♂️，运维挖坑人|[ccbikai](https://x.com/ccbikai)|
-weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手艺人 | [weijunext](https://x.com/weijunext)|
+|weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手艺人 | [weijunext](https://x.com/weijunext)|
 |pingchn|Creator of @ideashellAI|[pingchn](https://x.com/pingchn)|
 |leafwind|寫作、攝影、JAPAN、軟體工程師|[leafwind](https://x.com/leafwind)|
 |fetalkpodcast|在溫哥華科技公司擔任資深前端工程師|[fetalkpodcast](https://x.com/fetalkpodcast)|
@@ -190,3 +190,18 @@ weijunext | 👨‍💻前端🛠️全栈✨AI⛵️出海、Next.js开源手�
 |spacewander_lzx|开源项目清道夫/前Apache APISIX和OpenResty核心开发者/一个工作在L4与L7接入层的程序员/观点仅代表本人意见|[spacewander_lzx](https://x.com/spacewander_lzx)|
 |CarsonYangk8s|Community Pollinator, Cloud Native Lover ☸️, Blogger, GFW fucker...、Sealos 开发者布道师，云原生技术爱好者，专注于 AI 与云原生技术研究、开源思想传播，个人博客：|[CarsonYangk8s](https://x.com/CarsonYangk8s)|
 |Piglei|程序员、《Python 工匠：案例、技巧与工程实践》作者 |[Piglei](https://x.com/Piglei)|
+|ThonsChang|ENFJ. 🛠️ 有时候是开发者、🎨 有时候是设计师、合伙人 @chuhaiqu|[ThonsChang](https://x.com/ThonsChang)|
+|435hz|三角眼观天下，覆船口吞乾坤。天纵英才，献忠回来。|[435hz](https://x.com/435hz)|
+|MooenyChu|资深自媒体从业者 ，Video Creator，常旅客玩家。收集分享各种互联网“垃圾”|[MooenyChu](https://x.com/MooenyChu)|
+|chenboos5|Ex-Tencent、Building an AI-driven entertainment community 、Good alone, great with AI, best with friends|[chenboos5](https://x.com/chenboos5)|
+|greylihui|爱好编程、写作和开源|[greylihui](https://x.com/greylihui)|
+|foxshuo|说什么是你的自由，做什么是我的权利，如果我做的得不到你的赞同，那就对了，否则我将与你一样平淡无奇。|[foxshuo](https://x.com/foxshuo)|
+|Ninsbay|生活推,Podcast酝酿中|[Ninsbay](https://x.com/Ninsbay)|
+|sekay2016|喜欢分享，同时也是一名中介，行内十多年，海外不天堂，出国做好心理准备。爱是明智的 ，恨是愚蠢的。国内微信:visa6363（自动通过）|[sekay2016](https://x.com/sekay2016)|
+|layla8964|只专注女性自身/东京单女独居/外资职场生活分享|[layla8964](https://x.com/layla8964)|
+|kenshinji|Software Engineer in Berlin, content creator, interested in passive income/online business/digital marketing|[kenshinji](https://x.com/kenshinji)|
+|michaelwong666|生活在深圳。不聊政治。12 点之前睡。Open to work. |[michaelwong666](https://x.com/michaelwong666)|
+|jessieinorge|Instagram/YouTube/TikTok: jessieinorge|[jessieinorge](https://x.com/jessieinorge)|
+|CaminoTexas|Keep rolling till I'm in the dirt|[CaminoTexas](https://x.com/CaminoTexas)|
+|no13bus| 在瑞典的一名全栈工程师。、爱好拍照📸，hiking🥾 ，最近在培养健身爱好🏋️。、创造东西是一种自我表达和分享|[no13bus](https://x.com/no13bus)|
+|USAHS1|誓将去汝，适彼乐土！|[USAHS1](https://x.com/USAHS1)|
