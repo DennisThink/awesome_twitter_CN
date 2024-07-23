@@ -205,3 +205,12 @@
 |CaminoTexas|Keep rolling till I'm in the dirt|[CaminoTexas](https://x.com/CaminoTexas)|
 |no13bus| 在瑞典的一名全栈工程师。、爱好拍照📸，hiking🥾 ，最近在培养健身爱好🏋️。、创造东西是一种自我表达和分享|[no13bus](https://x.com/no13bus)|
 |USAHS1|誓将去汝，适彼乐土！|[USAHS1](https://x.com/USAHS1)|
+|neverrainmyself|❤️NOW: http://woc.space 🫡PAST: http://cowtransfer.com，2018-2021, 后来成功上岸。 小20年Java经验。广告行业10年，做过垃圾产品，持有很多梦想，利他主义先行 🫰我: https://bento.me/zhang-chen 来都来了，关注一个|[neverrainmyself](https://x.com/neverrainmyself)|
+|tuturetom|Building AI-Native Knowledge OS → https://refly.ai,ex @tiktok_us|[tuturetom](https://x.com/tuturetom)|
+|jyrnan|Stay Hungry, Stay Foolish / 野生程序员|[jyrnan](https://x.com/jyrnan)|
+|NodYoung|designing for 20 years, cooking for 5 years and being a father for 2 years.|[NodYoung](https://x.com/NodYoung)|
+|cellier_|前字节员工，SaaS 产品&设计 10 年经验 、「无法定义」创始人，关注 AI 效率工具领域、分享产品&设计、创业、管理、商业、人生…|[cellier_](https://x.com/cellier_)|
+|Aviva|燕雀总是成帮结伙，雄鹰从不搭伴而飞         🤖某 AI 智能机器人项目创始人，互联网/电商从业人员，实践主义者，不说空话。 🔥关注我，我们就是好朋友|[Aviva](https://x.com/Aviva)|
+|Gorden_Sun|产品经理，只发AI相关信息，个人维护的AI资讯日报|[Gorden_Sun](https://x.com/Gorden_Sun)|
+|7733Bianca|好好学习，天天向上|[7733Bianca](https://x.com/7733Bianca)|
+|horsezhanbin|东京新人，各种学习之中，请多多指教。常有提问，多谢答复或指引。【每个人都走在为自身怯弱辩护的路上。一些人已经完成异化，一些人还是半成品。|[horsezhanbin](https://x.com/horsezhanbin)|
