@@ -214,3 +214,9 @@
 |Gorden_Sun|产品经理，只发AI相关信息，个人维护的AI资讯日报|[Gorden_Sun](https://x.com/Gorden_Sun)|
 |7733Bianca|好好学习，天天向上|[7733Bianca](https://x.com/7733Bianca)|
 |horsezhanbin|东京新人，各种学习之中，请多多指教。常有提问，多谢答复或指引。【每个人都走在为自身怯弱辩护的路上。一些人已经完成异化，一些人还是半成品。|[horsezhanbin](https://x.com/horsezhanbin)|
+|iamluokai|Apple Die Hard Fan 苹果骨灰粉、AIGC Observer AIGC观察者、Cutting Edge Tech Enthusiast 科技爱好者|[iamluokai](https://x.com/iamluokai)|
+|youtubedubbing|独立开发者,作品: https://youtube-dubbing.com|[youtubedubbing](https://x.com/youtubedubbing)|
+|Yangyixxxx|分享AI与增长获客的见闻、分享有意思的AI产品和AI实践|[Yangyixxxx](https://x.com/Yangyixxxx)|
+|op7418|产品设计师、模型设计师、 不会代码的独立开发者。关注人工智能、LLM 、 Stable Diffusion 和设计。|[op7418](https://x.com/op7418)|
+|OwenYoungZh|沉浸式翻译作者、不愿意污染推特时间轴的短想法|[OwenYoungZh](https://x.com/OwenYoungZh)|
+|imxiaohu|Weibo 528w 超高过气科技博主、ChatGPT安装工程师、神经网络导航员、大自然语言模型搬运工、数据海洋大力水手、WaytoAGI之鹿饲养员|[imxiaohu](https://x.com/imxiaohu)|
