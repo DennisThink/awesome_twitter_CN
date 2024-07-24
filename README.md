@@ -222,3 +222,5 @@
 |imxiaohu|Weibo 528w 超高过气科技博主、ChatGPT安装工程师、神经网络导航员、大自然语言模型搬运工、数据海洋大力水手、WaytoAGI之鹿饲养员|[imxiaohu](https://x.com/imxiaohu)|
 |kasong2048|自由职业三年，INFP，前大厂技术专家，程序员畅销书作者、提供免费的副业咨询，咨询请填申请表|[kasong2048](https://x.com/kasong2048)|
 |arvin17x|Design Engineer|[arvin17x](https://x.com/arvin17x)|
+|likefeiwu|独立开发者新手/ 熟悉小红书|[likefeiwu](https://x.com/likefeiwu)|
+|houjoe1|爱码字的产品经理、使用并设计工具 、Product Manager & Weekend writer 、 Designing tools that boost productivity|[houjoe1](https://x.com/houjoe1)|
