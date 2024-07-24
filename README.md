@@ -37,8 +37,8 @@
 
 |用户名|领域、关键词|twitter地址|详细介绍|
 |----|------|----|-------|
-|reiheitYu|软件开发, 《精通正则表达式》译者|[reiheitYu](https://x.com/FreiheitYu)|*|
-|nateleex|AI出海|[nateleex](https://x.com/nateleex)|*|
+|reiheitYu|软件开发, 《精通正则表达式》译者|[reiheitYu](https://x.com/FreiheitYu)|**|
+|nateleex|AI出海|[nateleex](https://x.com/nateleex)|**|
 |yuxiyou|Vue作者|[yuxiyou](https://x.com/yuxiyou)|*|
 |xushiwei|Go, 七牛云|[xushiwei](https://x.com/xushiwei)|*|
 |skywind3000|游戏开发|[skywind3000](https://x.com/skywind3000)||
@@ -220,3 +220,5 @@
 |op7418|产品设计师、模型设计师、 不会代码的独立开发者。关注人工智能、LLM 、 Stable Diffusion 和设计。|[op7418](https://x.com/op7418)|
 |OwenYoungZh|沉浸式翻译作者、不愿意污染推特时间轴的短想法|[OwenYoungZh](https://x.com/OwenYoungZh)|
 |imxiaohu|Weibo 528w 超高过气科技博主、ChatGPT安装工程师、神经网络导航员、大自然语言模型搬运工、数据海洋大力水手、WaytoAGI之鹿饲养员|[imxiaohu](https://x.com/imxiaohu)|
+|kasong2048|自由职业三年，INFP，前大厂技术专家，程序员畅销书作者、提供免费的副业咨询，咨询请填申请表|[kasong2048](https://x.com/kasong2048)|
+|arvin17x|Design Engineer|[arvin17x](https://x.com/arvin17x)|
