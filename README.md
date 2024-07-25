@@ -224,3 +224,5 @@
 |arvin17x|Design Engineer|[arvin17x](https://x.com/arvin17x)|
 |likefeiwu|独立开发者新手/ 熟悉小红书|[likefeiwu](https://x.com/likefeiwu)|
 |houjoe1|爱码字的产品经理、使用并设计工具 、Product Manager & Weekend writer 、 Designing tools that boost productivity|[houjoe1](https://x.com/houjoe1)|
+|fox_laoy|Showrunner、 编剧 、猫奴、大叔、比较反差、喜欢说怪话发怪图、影视行业观察 | 生活周报：https://quail.ink/foxlaoy|[fox_laoy](https://x.com/fox_laoy)|
+|readyfor2025|连续创业者&产品经理&出海新手。早年腾讯&360 PM。创业：①日活100w2C产品②10w用户社交APP ③社交APP外包 （转型）④垂类2B SAAS ⑤2G智慧城市 。间歇性抑郁，从创造中寻找多巴胺。分享出海实践和创业思考。|[readyfor2025](https://x.com/readyfor2025)|
