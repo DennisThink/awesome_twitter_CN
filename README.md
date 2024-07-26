@@ -226,3 +226,11 @@
 |houjoe1|爱码字的产品经理、使用并设计工具 、Product Manager & Weekend writer 、 Designing tools that boost productivity|[houjoe1](https://x.com/houjoe1)|
 |fox_laoy|Showrunner、 编剧 、猫奴、大叔、比较反差、喜欢说怪话发怪图、影视行业观察 | 生活周报：https://quail.ink/foxlaoy|[fox_laoy](https://x.com/fox_laoy)|
 |readyfor2025|连续创业者&产品经理&出海新手。早年腾讯&360 PM。创业：①日活100w2C产品②10w用户社交APP ③社交APP外包 （转型）④垂类2B SAAS ⑤2G智慧城市 。间歇性抑郁，从创造中寻找多巴胺。分享出海实践和创业思考。|[readyfor2025](https://x.com/readyfor2025)|
+|choicky|律师，专注于互联网、数据合规、知识产权与环境保护。Dokuwiki、Wiki.JS 程序的首批志愿翻译人员。|[choicky](https://x.com/choicky)|
+|linroid|Android Engineer、3D Printing, FPV Drone, 🐶 person.|[linroid](https://x.com/linroid)|
+|real_kai42|独立开发者，14k 开源项目 Qwerty Learner 作者，《Web Worker 播客》主播，数码爱好者、仅聊技术和生活，仅代表个人观点，不太擅长文字，但话痨∠(｀ω´*) |[real_kai42](https://x.com/real_kai42)|
+|cholf5|游戏开发者、程序员、生活推； Lua/Go/C#/C/C++/Unity； 如果你杠，就是你对；拉黑 = 不想在你身上花时间；即不是川粉也不是川黑|[cholf5](https://x.com/cholf5)|
+|siantgirl|her/she，iOS独立开发者 ，表盘时钟，渐变壁纸，手持弹幕，happy bird（https://apple.co/3xO7Zdm）。网页todo (https://todos.asia）|[siantgirl](https://x.com/siantgirl)|
+|lvxinxin|创业者、投资人。目前在日本投资多个行业。不炒币的Crypto投资者，comiverseDAO发起人。|[lvxinxin](https://x.com/lvxinxin)|
+|__oQuery|码字码文，单身狗做一辈子、INFP-T、Front-end、NestJS、React、NeoVim、NextJS 、ex @xiaohongshu、crossbell@innei-4525、@innei@nya.one、All views are my own|[__oQuery](https://x.com/__oQuery)|
+|_justineo|Web developer. @vuejs|[_justineo](https://x.com/_justineo)|
