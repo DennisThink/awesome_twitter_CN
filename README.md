@@ -234,3 +234,14 @@
 |lvxinxin|创业者、投资人。目前在日本投资多个行业。不炒币的Crypto投资者，comiverseDAO发起人。|[lvxinxin](https://x.com/lvxinxin)|
 |__oQuery|码字码文，单身狗做一辈子、INFP-T、Front-end、NestJS、React、NeoVim、NextJS 、ex @xiaohongshu、crossbell@innei-4525、@innei@nya.one、All views are my own|[__oQuery](https://x.com/__oQuery)|
 |_justineo|Web developer. @vuejs|[_justineo](https://x.com/_justineo)|
+|chaosflutt28952|程序员、生产者、博客：https://zhengchao.dev、产品：https://siphon.ink，通过在线阅读有效积累词汇量、产品：https://memowise.ink，收藏吸收阅读中的价值、AI 工具：https://s.playai.ink, 英文表达练习工具|[chaosflutt28952](https://x.com/chaosflutt28952)|
+|AnwFM|设计、生活美学、数码科技相关播客，曾获 Apple Best of 2015 最佳播客奖项，由 @JJYing和 @Leongao主播|[AnwFM](https://x.com/AnwFM)|
+|JohnnyBi577370|在清迈陪读的码农，人生最大的乐趣是用最新的技术开发最没用的东西|[JohnnyBi577370](https://x.com/JohnnyBi577370)|
+|yan5xu|非典型开发者、关注AIGC应用&商业、登过热搜、上过报纸、经历破产、重整旗鼓打工中|[yan5xu](https://x.com/yan5xu)|
+|VKoooooon|@BetterMemoryApp、⌛️ 廢話一堆的開發者、💀 审美超爛的設計師 、主賬戶vinkonhe|[VKoooooon](https://x.com/VKoooooon)|
+|belliedmonkey|流媒体翻译工具 Aragorn https://aragorn.cc作者、分享技术栈，分享营销增长实践。 Blog: https://belliedmonkey.ccYcombinator Top 250 创业知识分享 翻译计划：https://belliedmonkey.cc/yc250|[belliedmonkey](https://x.com/belliedmonkey)|
+|Huanghanzhilian|全栈👨‍💻终身学习者✨AI 开源项目: c-shopping 全栈,APP,小程序 |[Huanghanzhilian](https://x.com/Huanghanzhilian)|
+|pupilcc|Developer🧑‍💻/创业者/做有价值的产品|[pupilcc](https://x.com/pupilcc)|
+|wangeguo|开源软件 @AmphitheatreApp作者，帮助工程师在云中立即启动新的自动化开发环境，按需提供并预先配置所需的所有工具、库和依赖项，可随时进行编码。|[wangeguo](https://x.com/wangeguo)|
+|||[]()|
+|||[]()|
