@@ -243,5 +243,18 @@
 |Huanghanzhilian|全栈👨‍💻终身学习者✨AI 开源项目: c-shopping 全栈,APP,小程序 |[Huanghanzhilian](https://x.com/Huanghanzhilian)|
 |pupilcc|Developer🧑‍💻/创业者/做有价值的产品|[pupilcc](https://x.com/pupilcc)|
 |wangeguo|开源软件 @AmphitheatreApp作者，帮助工程师在云中立即启动新的自动化开发环境，按需提供并预先配置所需的所有工具、库和依赖项，可随时进行编码。|[wangeguo](https://x.com/wangeguo)|
+|frank_8848|AI 创业者，运营一款 AI 教育工具，业余更新AIGC知识&工具库 http://aigc.notion.site|[frank_8848](https://x.com/frank_8848)|
+|1024_zip|一个没有想法的开发。严重社恐。 #PHP  正在学java|[1024_zip](https://x.com/1024_zip)|
+|zolplay|匠心筑乐，巧技佐玩|[zolplay](https://x.com/zolplay)|
+|nanshanjukr|少数派市场打杂、ReThink 专栏创始、偶尔管理一下即刻心理圈、心理学干货|[nanshanjukr](https://x.com/nanshanjukr)|
+|haohailong|非虚构和虚构都写一点，等待随时出现的重启机会。Antidote Studio 主理人。在现实的社会里，我等于一个废物。|[haohailong](https://x.com/haohailong)|
+|le0zh0u|让声音，带你领略技术的五彩斑斓 官网: https://podfest.tech|[le0zh0u](https://x.com/le0zh0u)|
+|jinjinledaofm|在一派纷繁芜杂里，我们为愉悦双耳而生。科技、教育、文化、美食、生活、技能、情绪……严肃认真却不刻板，拒绝空泛浮夸。与专业且有趣的人携手缔造清流，分享经历，传播体验，厘清世界与你的关系。|[jinjinledaofm](https://x.com/jinjinledaofm)|
+|x_canoe|iOS Developer 🍭 看到有意思的东西会分享 📝 偶尔写写博客  🐟 梦想是做条咸鱼|[x_canoe](https://x.com/x_canoe)|
+|sspai_com|我们发现优质应用、游戏与设备周边，以少数人的力量，改变多数人的数字生活。 — Weibo: @少数派sspai WeChat: sspaime Mail: contact@sspai.com|[sspai_com](https://x.com/sspai_com)|
+|coolXiao||[coolXiao](https://x.com/coolXiao)|
+|jike_collection|精选即刻App有意思的话题，程序抓取发布，非官方，侵删请DM |[jike_collection](https://x.com/jike_collection)|
+|||[]()|
+|||[]()|
 |||[]()|
 |||[]()|
