@@ -254,7 +254,10 @@
 |sspai_com|我们发现优质应用、游戏与设备周边，以少数人的力量，改变多数人的数字生活。 — Weibo: @少数派sspai WeChat: sspaime Mail: contact@sspai.com|[sspai_com](https://x.com/sspai_com)|
 |coolXiao||[coolXiao](https://x.com/coolXiao)|
 |jike_collection|精选即刻App有意思的话题，程序抓取发布，非官方，侵删请DM |[jike_collection](https://x.com/jike_collection)|
-|||[]()|
-|||[]()|
+|liruifengv|前端开发 / 开源爱好者 /@astrodotbuild开源项目成员 我的博客 https://liruifengv.com GitHub https://github.com/liruifengv  聊科技，聊AI，聊编程，聊开源，关注公众号SayHub一起探索可能性|[liruifengv](https://x.com/liruifengv)|
+|whileGreatHair|ENTJ、努力成为超级个体的菜鸟后端、探索 折腾 自由｜|[whileGreatHair](https://x.com/whileGreatHair)|
+|FinoGeng|Made in China 🇨🇳 、 Assembled in SG 🇸🇬 & NL 🇳🇱.重度咖啡控，关注财经丨科技丨养老产业丨的吃瓜群众|[FinoGeng](https://x.com/FinoGeng)|
+|CMGS1988|Author of http://run2.sg http://cs.town travel around china 33/34 travel around world 22/200 have enough money 100/100|[CMGS1988](https://x.com/CMGS1988)|
+|zuozizhen|设计师和创造者，对建立一人事业充满热情 ✦ 创建了 http://figmachina.com，http://notionchina.co，正在建造 @designstackHQ|[zuozizhen](https://x.com/zuozizhen)|
 |||[]()|
 |||[]()|
