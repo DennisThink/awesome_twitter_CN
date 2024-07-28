@@ -281,5 +281,10 @@
 |CNBorn|Eng Manager @ Shopify, 前豆瓣er 喜读书，爱电影，绘画及瑜伽初学者 @gametofuofl站长 前 Beijing Open Party 组织者 分享 1️⃣ 读书电影心得 2️⃣ 行业信息及感悟 3️⃣ 加拿大生活 EN Account coming soon|[CNBorn](https://x.com/CNBorn)|
 |gametofuofl|各平台免费游戏，最近发售游戏，各平台打折信息，豆瓣最热门游戏，为年度游戏榜单投票|[gametofuofl](https://x.com/gametofuofl)|
 |sh_awai|新晋独立开发者、出海新人、SEO新手|[sh_awai](https://x.com/sh_awai)|
+|strrlthedev|少刷 X 多看书 / 狠狠做产品|[strrlthedev](https://x.com/strrlthedev)|
+|freesisx|有猫，有两只。黄蜂收割者。梦想做一名野生动物摄影师。互联网产品经理，工具产品，出海，AI，增长|[freesisx](https://x.com/freesisx)|
+|baoshu88|华尔街煎饼摊负责人|[baoshu88](https://x.com/baoshu88)|
+|||[]()|
+|||[]()|
 |||[]()|
 |||[]()|
