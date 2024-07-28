@@ -259,5 +259,27 @@
 |FinoGeng|Made in China 🇨🇳 、 Assembled in SG 🇸🇬 & NL 🇳🇱.重度咖啡控，关注财经丨科技丨养老产业丨的吃瓜群众|[FinoGeng](https://x.com/FinoGeng)|
 |CMGS1988|Author of http://run2.sg http://cs.town travel around china 33/34 travel around world 22/200 have enough money 100/100|[CMGS1988](https://x.com/CMGS1988)|
 |zuozizhen|设计师和创造者，对建立一人事业充满热情 ✦ 创建了 http://figmachina.com，http://notionchina.co，正在建造 @designstackHQ|[zuozizhen](https://x.com/zuozizhen)|
+|fuxiaohei|后端开发工程师，工作之余搞着一个小 Faas 项目 http://runtime.land|[fuxiaohei](https://x.com/fuxiaohei)|
+|randyloop|Fullstack engineer, Blogger. EpubKit https://epubkit.app / Notepal |[randyloop](https://x.com/randyloop)|
+|Lakr233|手握着小瓶子装平凡的日子|[Lakr233](https://x.com/Lakr233)|
+|alswl|Code Monkey // Senior YAML Editor // 擅长江浙菜 // 公众号 窥豹|[alswl](https://x.com/alswl)|
+|HzaoHzao|Coding & Movies. Developer of Numpkin. WWDC23&24 Swift Student Challenge Winner. iOS Development、 Cybersecurity 、Blockchain Technology、“生活西化”|[HzaoHzao](https://x.com/HzaoHzao)|
+|geekbb|🧠在家居士、 🥦素食者、🏃🏻马拉松爱好者 、💰省钱小能手、搭🪜技术资深学者、👨‍💻科技宅、🆕更新狂、🆅 六边型战五渣|[geekbb](https://x.com/geekbb)|
+|JinsFavorites|产品一枚，目前专注于SaaS出海 、有一点好用工具收藏的小癖好、还有一些天马行空的想法|[JinsFavorites](https://x.com/JinsFavorites)|
+|leeoxiang|10年RTC音视频经验、AI+音视频探索、专注出海与增长、公开学习实践、欢迎交流 🚀|[leeoxiang](https://x.com/leeoxiang)|
+|nexmoe|00 后，赛博朋克爱好者，未来狂热份子、热衷于分享我收集的好东西|[nexmoe](https://x.com/nexmoe)|
+|SaitoWu|🌈 创业 10 年，👨‍🚀 现投身硬地骇客 、🤨 正在探究这个世界是如何运转|[SaitoWu](https://x.com/SaitoWu)|
+|HongyuanCao|创业者，出海SaaS+AI产品，SEO见习师，会分享个人经验和工具。目前在做 http://NoteGPT.io 和 http://Denote.net，以及新产品 http://Remusic.ai 和 http://KodeCoffee.com，请多多关注。|[HongyuanCao](https://x.com/HongyuanCao)|
+|huangjinbo|做一位独立思考、自立自信，生活简单的人。岁月累积，总有那么一点生活阅历与你分享，只会风花雪月和折腾那么一点点技术。随时锁推，请先关注，谢谢。|[huangjinbo](https://x.com/huangjinbo)|
+|CeoSpaceY|AI scientist，自然科学总站站长。科学中国人组织创立者.苏格拉底学派。制造东西方对立是阴谋家的话术。地球是圆的，哪来的东西方？|[CeoSpaceY](https://x.com/CeoSpaceY)|
+|9hills|喜欢一切美好的事物|[9hills](https://x.com/9hills)|
+|mundane799699|正在尝试独立开发,目前作品:RedArchive-小红书收藏点赞导出|[mundane799699](https://x.com/mundane799699)|
+|luobogooooo|颜狗、前端切图大师、伪独立开发者，不定期分享实用高颜值工具，正在做一个独立开发者出海工具站，无论你看不看我们都是好推友😎|[luobogooooo](https://x.com/luobogooooo)|
+|OpenQiang|OPEN强，OPEN讲，相信开放/自由/创新/共享，进而自强不息。|[OpenQiang](https://x.com/OpenQiang)|
+|qilong87|出海小白，请多指教|[qilong87](https://x.com/qilong87)|
+|ftium4|想做独立开发者的设计师，做任何事情都只是因为兴趣罢了|[ftium4](https://x.com/ftium4)|
+|CNBorn|Eng Manager @ Shopify, 前豆瓣er 喜读书，爱电影，绘画及瑜伽初学者 @gametofuofl站长 前 Beijing Open Party 组织者 分享 1️⃣ 读书电影心得 2️⃣ 行业信息及感悟 3️⃣ 加拿大生活 EN Account coming soon|[CNBorn](https://x.com/CNBorn)|
+|gametofuofl|各平台免费游戏，最近发售游戏，各平台打折信息，豆瓣最热门游戏，为年度游戏榜单投票|[gametofuofl](https://x.com/gametofuofl)|
+|sh_awai|新晋独立开发者、出海新人、SEO新手|[sh_awai](https://x.com/sh_awai)|
 |||[]()|
 |||[]()|
