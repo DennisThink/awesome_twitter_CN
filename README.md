@@ -284,6 +284,28 @@
 |strrlthedev|少刷 X 多看书 / 狠狠做产品|[strrlthedev](https://x.com/strrlthedev)|
 |freesisx|有猫，有两只。黄蜂收割者。梦想做一名野生动物摄影师。互联网产品经理，工具产品，出海，AI，增长|[freesisx](https://x.com/freesisx)|
 |baoshu88|华尔街煎饼摊负责人|[baoshu88](https://x.com/baoshu88)|
+|santiagoyoungus|深圳人在纽约、出海创业者、分享普通人在海外创业的硬核干货|[santiagoyoungus](https://x.com/santiagoyoungus)|
+|raycat2021|Disciple of Mont Pelerin, ex-McKinsey；全球财经/美股分析。订阅“老猫美股研究” http://raycat.substack.com，深度解剖美股投资机会，追踪热门趋势。“真正的旅途不在于寻找新的风景，而在于拥有新的眼光。”|[raycat2021](https://x.com/raycat2021)|
+|JourneymanChina|🛠  Founder http://noteey.com、Ex Co-Founder http://videoshowapp.com、All In 出海、斜杠中年、分享被动收入经验|[JourneymanChina](https://x.com/JourneymanChina)|
+|mike_d1213|与真实的世界互动，探索第一手信息。Weibo: Mike_D|[mike_d1213](https://x.com/mike_d1213)|
+|liuren|《知识英雄》作者《未知书社》发起人|[liuren](https://x.com/liuren)|
+|onenewbite|关注科技, 投资, 和个人成长. YouTube: MoneyXYZ 社群: http://onenewbite.com|[onenewbite](https://x.com/onenewbite)|
+|thecalicastle|⛺︎ 开发者/设计师、创始人 CEO ⇢ @zolplay、官网 ⇢ http://cali.so、定制你的手绘头像 ⇢ http://neu.salon、英文设计推 ⇢ @cali_designer|[thecalicastle](https://x.com/thecalicastle)|
+|Himalaya_bear1|天使投资、创业教练、地球浪人、a.k.a 喜马拉雅熊 HimalyaBear、邮箱 chalimailbox@yahoo.com 油管频道： https://youtube.com/@HimalayaBear?si=AcL-D_qq3ax9IBbX|[Himalaya_bear1](https://x.com/Himalaya_bear1)|
+|jason5ng32|一个互联网从业者，一个爱写字的过气博主，一个爱折腾代码的非技术人员，一个爱骑摩托车到处走走停停的骑士。一个关注生产力、教育、媒体、社会企业的人。|[jason5ng32](https://x.com/jason5ng32)|
+|Beichen|凤凰网前科技主编，纽约时报中文网、彭博商业周刊科技专栏作者，品牌公关公司合伙人。现主要为企业提供内容/营销/品牌/公关传播咨询。2006开始实名上网，全网同名。长居大理。|[Beichen](https://x.com/Beichen)|
+|ifanr|资讯媒体|[ifanr](https://x.com/ifanr)|
+|erchenlu1|Interdisciplinary thinker / 跨学科思考者、公众号：卢尔辰、个人知识会员社群（见顶置推文、个人tg https://t.me/lu64785|[erchenlu1](https://x.com/erchenlu1)|
+|realliaohaibo|学习者/思考者/探索者/进化者|[realliaohaibo](https://x.com/realliaohaibo)|
+|oIUnIfxxuuNRpIA|開始，我發現自己沒什麼光榮歷史可以寫，就很難過；後來，我發現也沒什麼嚇人的頭銜可以炫耀，就很自卑；最後，我發現連擲地有聲的名人名言都想不出來，就絕望了。北京方言寫作者。|[oIUnIfxxuuNRpIA](https://x.com/oIUnIfxxuuNRpIA)|
+|Yintinusa|应聘投递简历或合作：info@usachance.com 小学文化，16岁参加工作，中途返校两年读英语，越南工作一年，深圳外贸10几年. 2013年（38岁）怀揣3000美金闯美创业，生意稍有起色走L1A-EB1C全家移民美国，目前主要从事全美展台制作与搭建服务，在拉斯维加斯与奥兰多设有三个小厂.|[Yintinusa](https://x.com/Yintinusa)|
+|FinanceYF5|10年经验行业分析师，GenAI学习中，Learn in public。@GPTDAOGLOBAL分析师@PixVerse_增长顾问|[FinanceYF5](https://x.com/FinanceYF5)|
+|0xluffy_eth|🌍 分享工具和资料、专注于 AI、效率工具、Web3 的信息挖掘和评测、海贼·王路飞的狂热粉丝，坚信勇气和冒险精神可以开启人生新篇章 |[0xluffy_eth](https://x.com/0xluffy_eth)|
+|HeySophiaHong|清华毕业、斯坦福在读、萌新创业者、@GlatoAI、@caffelabs、AI前沿、创业思考、出海产品、留学生活、全网同名|[HeySophiaHong](https://x.com/HeySophiaHong)|
+|Trillion5205189|"Be kind, everyone is on their own journey." ❤️ 还在打工 计划在35岁退休 喜欢写代码但是技术很菜 web开发者 数字移民践行者 外贸/ 跨境电商新人 分享我的跨境电商/外贸旅程，希望给你灵感，欢迎交流，寻找合作伙伴。|[Trillion5205189](https://x.com/Trillion5205189)|
+|CoderJeffLee|Software Engineer、Growth Hacker、Micro SaaS Founder、爱分享 Learning by Writing，爱赚钱，更爱软件赚钱、🛰 qqcode168|[CoderJeffLee](https://x.com/CoderJeffLee)|
+|minizz1949|ex-头部3d打印公司品牌市场实战派😙、AI SaaS growth marketing✈️、Try to be creator and multiplier😜、以终为始 持续学习🥰、经验知识化 知识体系化🤗、脚踏实地的理想主义、喜欢和全球各种角色的人交朋友、Welcome to DM|[minizz1949](https://x.com/minizz1949)|
+|juransir|专注品牌&营销、跨境电商、数码 3C 硬件、前产品经理、Formerly at @smartisan @ankerofficial、国内第一批 vlogger（已全网销户、🏋️一周健身四次、🚴十代 TCR 车主、🚶有空就去徒步、✈️ 去年游历 19 座城市的旅行爱好者|[juransir](https://x.com/juransir)|
 |||[]()|
 |||[]()|
 |||[]()|
