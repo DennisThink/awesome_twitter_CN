@@ -306,7 +306,15 @@
 |CoderJeffLee|Software Engineer、Growth Hacker、Micro SaaS Founder、爱分享 Learning by Writing，爱赚钱，更爱软件赚钱、🛰 qqcode168|[CoderJeffLee](https://x.com/CoderJeffLee)|
 |minizz1949|ex-头部3d打印公司品牌市场实战派😙、AI SaaS growth marketing✈️、Try to be creator and multiplier😜、以终为始 持续学习🥰、经验知识化 知识体系化🤗、脚踏实地的理想主义、喜欢和全球各种角色的人交朋友、Welcome to DM|[minizz1949](https://x.com/minizz1949)|
 |juransir|专注品牌&营销、跨境电商、数码 3C 硬件、前产品经理、Formerly at @smartisan @ankerofficial、国内第一批 vlogger（已全网销户、🏋️一周健身四次、🚴十代 TCR 车主、🚶有空就去徒步、✈️ 去年游历 19 座城市的旅行爱好者|[juransir](https://x.com/juransir)|
+|gidot|排版助手作者、老程序员、书虫上脑、80 后的年纪 、90 后的外貌、00 后的心、间歇性胡言乱语。|[gidot](https://x.com/gidot)|
+|lemon_hx|@Limit_LAB、CEO 、@satellite7_的老公、要素过多谨慎食用 、 全栈溢出 、🚪 114514 、中 日 En Fr Es 、随时输出魔怔见解 、lemonhx@crossbell|[lemon_hx](https://x.com/lemon_hx)|
+|imsingee|经济学+法学双专业，当过投资人也忽悠过投资人，现在累了，当产品经理，也写前端后端客户端，安心写代码，Happy Coding～|[imsingee](https://x.com/imsingee)|
 |||[]()|
 |||[]()|
 |||[]()|
 |||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+
