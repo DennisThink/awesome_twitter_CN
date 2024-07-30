@@ -309,7 +309,7 @@
 |gidot|排版助手作者、老程序员、书虫上脑、80 后的年纪 、90 后的外貌、00 后的心、间歇性胡言乱语。|[gidot](https://x.com/gidot)|
 |lemon_hx|@Limit_LAB、CEO 、@satellite7_的老公、要素过多谨慎食用 、 全栈溢出 、🚪 114514 、中 日 En Fr Es 、随时输出魔怔见解 、lemonhx@crossbell|[lemon_hx](https://x.com/lemon_hx)|
 |imsingee|经济学+法学双专业，当过投资人也忽悠过投资人，现在累了，当产品经理，也写前端后端客户端，安心写代码，Happy Coding～|[imsingee](https://x.com/imsingee)|
-|||[]()|
+|HotmailfromSH|荣格信徒，医学搬运工；仅做科普。|[HotmailfromSH](https://x.com/HotmailfromSH)|
 |||[]()|
 |||[]()|
 |||[]()|
