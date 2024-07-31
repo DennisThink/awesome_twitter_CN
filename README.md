@@ -310,6 +310,30 @@
 |lemon_hx|@Limit_LAB、CEO 、@satellite7_的老公、要素过多谨慎食用 、 全栈溢出 、🚪 114514 、中 日 En Fr Es 、随时输出魔怔见解 、lemonhx@crossbell|[lemon_hx](https://x.com/lemon_hx)|
 |imsingee|经济学+法学双专业，当过投资人也忽悠过投资人，现在累了，当产品经理，也写前端后端客户端，安心写代码，Happy Coding～|[imsingee](https://x.com/imsingee)|
 |HotmailfromSH|荣格信徒，医学搬运工；仅做科普。|[HotmailfromSH](https://x.com/HotmailfromSH)|
+|WildCat_zh|@WildCat_io中文版。团队产品：本地优先的稍后阅读，与个人知识库应用 http://infoflow.app面向未来的记账与会计软件 http://superboox.com |[WildCat_zh](https://x.com/WildCat_zh)|
+|beihuo|时间会燃尽一切荒唐和美好、一个对产品感兴趣的工程师、相信人与人之间的有效联结可以创造更多可能性、Information wants to be free|[beihuo](https://x.com/beihuo)|
+|haveafreeheart|活出生命的辽阔|[haveafreeheart](https://x.com/haveafreeheart)|
+|wong2_x|Creator of http://ChatHub.gg & http://kimi.tools & @chatgpt4google(acquired) & 人人网小黄鸡|[wong2_x](https://x.com/wong2_x)|
+|fkysly|Vision Pro developer, Just-for-Instagram app.|[fkysly](https://x.com/fkysly)|
+|plusyip|程序员，开发过 2 个 iOS App，几个不知名的浏览器插件，几个小程序。喜欢看动画、漫画、轻小说和网文。目标是早日成为自宅警備員。搞了个 GPT 和Claude API 转发服务，价格和官方的一样：http://llmhub.app|[plusyip](https://x.com/plusyip)|
+|alanblogsooo|产品经理、设计师，分享 Axure 建站方法，创建个人网站。Axure 建站：https://axureweb.site 小报童导航：https://xiaobot.axureweb.site|[alanblogsooo](https://x.com/alanblogsooo)|
+|nianyi_778|全栈工程师、独立开发者、不要迷信纯粹技术，商业化才是目的。|[nianyi_778](https://x.com/nianyi_778)|
+|ovst36099|程序员成长中ing、我的服务：1. ChatGPT镜像站（送 1 天 pro 会员）：http://web.tu-zi.com 2. API转发站（送 0.4 美金）：http://api.tu-zi.com 3. mj绘画站（送 5 积分）：http://chat.tu-zi.com 4. 知识库（免费）：http://wiki.tu-zi.com|[ovst36099](https://x.com/ovst36099)|
+|_KleinHe_|20 y/o、全栈&算法💻、自封的 UI/UX 🪄、创业小学生🎒、究极书虫📚、Hacker&Creator👾 “Learn Fast. Fail Fast. Iterate Fast”|[_KleinHe_](https://x.com/_KleinHe_)|
+|lumaoyangmao|/WEB3野生科学家/兼职黑奴/日常撸毛+撸猫/偏技术向撸毛记录、🔥商务合作可直接DM、🌏 WX和TG：lumaoyangmao|[lumaoyangmao](https://x.com/lumaoyangmao)|
+|ShouChen_|做自己喜欢的事。日常推，偶尔发技术。https://fastsend.ing 浏览器点对点文件传输、 https://miaobox.cc 一个本地优先的实用工具箱、https://aifreee.cc 免费的AI工具站、http://webcamera.cc 实时网络摄像头工具|[ShouChen_](https://x.com/ShouChen_)|
+|wwek|#公众号:流水理鱼 ，一人公司，工具+AI落地玩家|[wwek](https://x.com/wwek)|
+|edwardzsky2017|外贸工厂，创业，旅行， NO GAY !……自言自语的推…… 后半辈子换个活法…. I我的百万仓库TG订阅更新 https://t.me/+9IlwzuIE-7EzZjlh|[edwardzsky2017](https://x.com/edwardzsky2017)|
+|fxxkol|致力于面向个人与家庭去中心化及数智化的开源工程师、独立开发者、户外爱好者、生活黑客、世界公民；关注 #Web3、#AI、#IoT 和 #HomeLab 的发展。纯英文号：|[fxxkol](https://x.com/fxxkol)|
+|ruiyanghim|24. 独立开发者. building on AI search engine http://discovai.io. Bio: http://dub.sh/ruiy. Github: http://git.new/ruiy. ZJU 、ex@Weixin_Wechat、英推@ruiyang25|[ruiyanghim](https://x.com/ruiyanghim)|
+|waiwen3|❤️ 希望这个世界更好！、 摸酸菜鱼工程师！|[waiwen3](https://x.com/waiwen3)|
+|gasikaramada|💻 程序员，资深借书专家 、分享关于软件工程/分布式架构/资源调度/云原生、热衷于探索 OpenAI Whisper, Stable Diffusion|[gasikaramada](https://x.com/gasikaramada)|
+|marvin102465536|初中级全栈开发者，做过多款盈利产品，目前在探索海外产品变现，一起交流👋🏻公众号 👉开发者码神、我的专栏 👉https://xiaobot.net/p/googleseosop|[marvin102465536](https://x.com/marvin102465536)|
+|tianlan|Man Going His Own Way|[tianlan](https://x.com/tianlan)|
+|wulujia|Run a small business, develop small products, make small investments. CEO@ http://zsxq.com, PM@ http://tealseed.com, investor@ http://slax.com, work@ http://bgzsg.com|[wulujia](https://x.com/wulujia)|
+|quentin_hsu|💻 FE👨‍💻 、 📷 🎨 、 🐠 🐢 http://github.com/QuentinHsu 最近计划：再议|[quentin_hsu](https://x.com/quentin_hsu)|
+|lgywrite|前互联网运营，爱好英语、编程、写作|[lgywrite](https://x.com/lgywrite)|
+|FlashSnail|独立开发者：📱计数器、📱圣经-多版本对照、🖥 Pixeur - 屏幕取色器|[FlashSnail](https://x.com/FlashSnail)|
 |||[]()|
 |||[]()|
 |||[]()|
@@ -317,4 +341,5 @@
 |||[]()|
 |||[]()|
 |||[]()|
-
+|||[]()|
+|||[]()|
