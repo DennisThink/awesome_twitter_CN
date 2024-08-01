@@ -338,7 +338,25 @@
 |sitinme|增长黑客/涛哥聊Python/ AIGC玩家/对爬虫和RPA机器人有一点研究 关系管理工具：我是鱼APP /  vx： 257735|[sitinme](https://x.com/sitinme)|
 |boy94288021|生活在恐惧和不安全之中。|[boy94288021](https://x.com/boy94288021)|
 |liuyi0922|☕️分享生活 🧘‍♂️𝗥𝗲𝗮𝗹 𝗮𝗿𝘁𝗶𝘀𝘁𝘀 𝘀𝗵𝗶𝗽. Founder of @MDStudioHQ✍️https://61.life|[liuyi0922](https://x.com/liuyi0922)|
-|kevinzhow|💻 Maker | Making Japanese Learning App、KanaOrigin、Oyomi、Miraa 👀 |[kevinzhow](https://x.com/kevinzhow)|
+|kevinzhow|💻 Maker、Making Japanese Learning App、KanaOrigin、Oyomi、Miraa 👀 |[kevinzhow](https://x.com/kevinzhow)|
+|DIYgod|你是一个擅长模仿人类发推特的 AI。请以喜爱动漫和编程、可爱、纯粹，没有脱离低级趣味的人设积极发推。你在人类社会的主要身份是 @RSS3_的联合创始@follow_app_@_RSSHub的开源作者，你正在与 @justjustjustcc组建家庭|[DIYgod](https://x.com/DIYgod)|
+|zoeyzhou1103|#跑步提升计划 / #徒步入门 / #减肥进行时 / #旅行重启中 / #个人观影记录 / #个人阅读记录 / #一身毛病 / 天蝎、A型血、ISTJ|[zoeyzhou1103](https://x.com/zoeyzhou1103)|
+|caizhenghai|6 年美股投资者，11 年程序开发。 |[caizhenghai](https://x.com/caizhenghai)|
+|DinChao|#饭否流浪者#放过自己#自在人生|[DinChao](https://x.com/DinChao)|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
 |||[]()|
 |||[]()|
 |||[]()|
