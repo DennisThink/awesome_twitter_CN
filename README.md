@@ -334,10 +334,11 @@
 |quentin_hsu|💻 FE👨‍💻 、 📷 🎨 、 🐠 🐢 http://github.com/QuentinHsu 最近计划：再议|[quentin_hsu](https://x.com/quentin_hsu)|
 |lgywrite|前互联网运营，爱好英语、编程、写作|[lgywrite](https://x.com/lgywrite)|
 |FlashSnail|独立开发者：📱计数器、📱圣经-多版本对照、🖥 Pixeur - 屏幕取色器|[FlashSnail](https://x.com/FlashSnail)|
-|||[]()|
-|||[]()|
-|||[]()|
-|||[]()|
+|nuannuan_share|❤️ 痴迷挖各种好用的效率工具和AI、资深运营项目负责人、不定时分享、运营案例、可以不光芒万丈，但不要停止发光|[nuannuan_share](https://x.com/nuannuan_share)|
+|sitinme|增长黑客/涛哥聊Python/ AIGC玩家/对爬虫和RPA机器人有一点研究 关系管理工具：我是鱼APP /  vx： 257735|[sitinme](https://x.com/sitinme)|
+|boy94288021|生活在恐惧和不安全之中。|[boy94288021](https://x.com/boy94288021)|
+|liuyi0922|☕️分享生活 🧘‍♂️𝗥𝗲𝗮𝗹 𝗮𝗿𝘁𝗶𝘀𝘁𝘀 𝘀𝗵𝗶𝗽. Founder of @MDStudioHQ✍️https://61.life|[liuyi0922](https://x.com/liuyi0922)|
+|kevinzhow|💻 Maker | Making Japanese Learning App、KanaOrigin、Oyomi、Miraa 👀 |[kevinzhow](https://x.com/kevinzhow)|
 |||[]()|
 |||[]()|
 |||[]()|
