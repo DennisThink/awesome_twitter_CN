@@ -358,6 +358,6 @@
 |Li_miao_wen|只会喵喵叫的设计师和猫爸爸@LinXYoo|[Li_miao_wen](https://x.com/Li_miao_wen)|
 |ouranswers_|🎧你的信息降噪耳机、📖专注分享深度阅读内容、🔍关注商业/人文/效率/思维、👇订阅专栏|[ouranswers_](https://x.com/ouranswers_)|
 |yfractal|Rust 练手项目，https://github.com/yfractal/ccache，欢迎指导。见习咒术师，持续练习反转术式（改善睡眠）。一级蛊师（会做酸菜）。CRUD 熟练工。|[yfractal](https://x.com/yfractal)|
-|Jiaxi_Cui|熊墅科技CEO 合成数据DataTager 🤖、ModelScope DevRel、ChatLaw Founder、💪连续创业者、🚀在做数据、玄学等AI落地的小产品、从技术走向真实商业社会|[Jiaxi_Cui](https://x.com/Jiaxi_Cui)|
+|Jiaxi_Cui|出海、现在做LLM的半合成数据DataTager、ChatLaw Founder、ModelScope开发者关系、ex北大RA 以前搞科研的、被收购过、全网同名|[Jiaxi_Cui](https://x.com/Jiaxi_Cui)|
 |||[]()|
 |||[]()|
