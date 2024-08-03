@@ -286,7 +286,6 @@
 |baoshu88|华尔街煎饼摊负责人|[baoshu88](https://x.com/baoshu88)|
 |santiagoyoungus|深圳人在纽约、出海创业者、分享普通人在海外创业的硬核干货|[santiagoyoungus](https://x.com/santiagoyoungus)|
 |raycat2021|Disciple of Mont Pelerin, ex-McKinsey；全球财经/美股分析。订阅“老猫美股研究” http://raycat.substack.com，深度解剖美股投资机会，追踪热门趋势。“真正的旅途不在于寻找新的风景，而在于拥有新的眼光。”|[raycat2021](https://x.com/raycat2021)|
-|JourneymanChina|🛠  Founder http://noteey.com、Ex Co-Founder http://videoshowapp.com、All In 出海、斜杠中年、分享被动收入经验|[JourneymanChina](https://x.com/JourneymanChina)|
 |mike_d1213|与真实的世界互动，探索第一手信息。Weibo: Mike_D|[mike_d1213](https://x.com/mike_d1213)|
 |liuren|《知识英雄》作者《未知书社》发起人|[liuren](https://x.com/liuren)|
 |onenewbite|关注科技, 投资, 和个人成长. YouTube: MoneyXYZ 社群: http://onenewbite.com|[onenewbite](https://x.com/onenewbite)|
@@ -343,22 +342,22 @@
 |zoeyzhou1103|#跑步提升计划 / #徒步入门 / #减肥进行时 / #旅行重启中 / #个人观影记录 / #个人阅读记录 / #一身毛病 / 天蝎、A型血、ISTJ|[zoeyzhou1103](https://x.com/zoeyzhou1103)|
 |caizhenghai|6 年美股投资者，11 年程序开发。 |[caizhenghai](https://x.com/caizhenghai)|
 |DinChao|#饭否流浪者#放过自己#自在人生|[DinChao](https://x.com/DinChao)|
-|||[]()|
-|||[]()|
-|||[]()|
-|||[]()|
-|||[]()|
-|||[]()|
-|||[]()|
-|||[]()|
-|||[]()|
-|||[]()|
-|||[]()|
-|||[]()|
-|||[]()|
-|||[]()|
-|||[]()|
-|||[]()|
-|||[]()|
+|KidyLee|👶👶俩儿子的爹、💻 专业出身的野路子软件工程师 、🏋️ 目前身材颜值掉线中 、📖 定期分享读书心得, 谢谢关注!|[KidyLee](https://x.com/KidyLee)|
+|YunYouJun|希望能成为一个有趣的人。 希望能创造出可以成为别人回忆的事物。 http://yyj.moe、http://github.com/YunYouJun、Element Plus Team Member@YunLeFun、看板娘小云 |[YunYouJun](https://x.com/YunYouJun)|
+|jesselaunz|自然人、个体户、程序化交易、硅碳比例 6：4|[jesselaunz](https://x.com/jesselaunz)|
+|xds2000|I'm Xiao Deshi and I'm a splendid chap. OSS developer、 Exploring Gen AI |[xds2000](https://x.com/xds2000)|
+|baiwusanyu|🍻 Coder 、member of vuejs、Open source enthusiast|[baiwusanyu](https://x.com/baiwusanyu)|
+|laobaishare|收集和分享好东西：🌍泛互联网 + 💻科技 + 🤖Al + 📃学习 + 🤑Crypto 看都看 了，点点关注 👆|[laobaishare](https://x.com/laobaishare)|
+|wanerfu|大厂牛马 🐮 🐴、日常摆烂 🏖️、关注、分享泛互联网、泛科技资讯八卦 💬、AI、web 3.0、渴望退休、渴望财务自由|[wanerfu](https://x.com/wanerfu)|
+|Caijingtianxia|🌐 财经天下 、汇集海内外财经数据/思想/观点、碰撞出前沿洞察，探寻市场背后的力量|[Caijingtianxia](https://x.com/Caijingtianxia)|
+|augusdinc|Rock 🎸 & Code 👨🏻‍💻、用户体验、出海赚美金 | AI | 科技、利他、克服写代码的冲动，对我们来说是一种重要的技能近三个月产品:|[augusdinc](https://x.com/augusdinc)|
+|iskyzh|这个人很菜，什么也不会 / 面对命中注定的失败|[iskyzh](https://x.com/iskyzh)|
+|zty0826|失败人士|[zty0826](https://x.com/zty0826)|
+|gong_cn|👨🏻‍💻 Indie Developer 🌈  苹果独立开发者 👉📱HiCoffee 、📱HiWater 、📱Talky 、📱分形的奥秘 、📱MyWeight²|[gong_cn](https://x.com/gong_cn)|
+|zhongerxin|🪄 现豆包桌面端产品经理&设计师； 前 Teambition、飞书智能伙伴设计师、ChatGPT 插件 Pluginpedia 作者|[zhongerxin](https://x.com/zhongerxin)|
+|Li_miao_wen|只会喵喵叫的设计师和猫爸爸@LinXYoo|[Li_miao_wen](https://x.com/Li_miao_wen)|
+|ouranswers_|🎧你的信息降噪耳机、📖专注分享深度阅读内容、🔍关注商业/人文/效率/思维、👇订阅专栏|[ouranswers_](https://x.com/ouranswers_)|
+|yfractal|Rust 练手项目，https://github.com/yfractal/ccache，欢迎指导。见习咒术师，持续练习反转术式（改善睡眠）。一级蛊师（会做酸菜）。CRUD 熟练工。|[yfractal](https://x.com/yfractal)|
+|Jiaxi_Cui|熊墅科技CEO 合成数据DataTager 🤖、ModelScope DevRel、ChatLaw Founder、💪连续创业者、🚀在做数据、玄学等AI落地的小产品、从技术走向真实商业社会|[Jiaxi_Cui](https://x.com/Jiaxi_Cui)|
 |||[]()|
 |||[]()|
