@@ -359,5 +359,21 @@
 |ouranswers_|🎧你的信息降噪耳机、📖专注分享深度阅读内容、🔍关注商业/人文/效率/思维、👇订阅专栏|[ouranswers_](https://x.com/ouranswers_)|
 |yfractal|Rust 练手项目，https://github.com/yfractal/ccache，欢迎指导。见习咒术师，持续练习反转术式（改善睡眠）。一级蛊师（会做酸菜）。CRUD 熟练工。|[yfractal](https://x.com/yfractal)|
 |Jiaxi_Cui|出海、现在做LLM的半合成数据DataTager、ChatLaw Founder、ModelScope开发者关系、ex北大RA 以前搞科研的、被收购过、全网同名|[Jiaxi_Cui](https://x.com/Jiaxi_Cui)|
+|iWillDev|“雪球英语”是一个学英语的app，用你感兴趣的内容学英语。YouTube，有声书，音频任选，用AI生成同步字幕实现可理解输入。打破常规，遵循原典法321x，聆听先行。AB重复，半速倍速，单句重复，单句翻译，屏幕取词，蓝牙遥控等等功能让英语学习更加便捷高效。 我相信英语学习者在AI和创新技术的加持下，都能取得成功。|[iWillDev](https://x.com/iWillDev)|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
 |||[]()|
 |||[]()|
