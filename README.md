@@ -360,11 +360,11 @@
 |yfractal|Rust 练手项目，https://github.com/yfractal/ccache，欢迎指导。见习咒术师，持续练习反转术式（改善睡眠）。一级蛊师（会做酸菜）。CRUD 熟练工。|[yfractal](https://x.com/yfractal)|
 |Jiaxi_Cui|出海、现在做LLM的半合成数据DataTager、ChatLaw Founder、ModelScope开发者关系、ex北大RA 以前搞科研的、被收购过、全网同名|[Jiaxi_Cui](https://x.com/Jiaxi_Cui)|
 |iWillDev|“雪球英语”是一个学英语的app，用你感兴趣的内容学英语。YouTube，有声书，音频任选，用AI生成同步字幕实现可理解输入。打破常规，遵循原典法321x，聆听先行。AB重复，半速倍速，单句重复，单句翻译，屏幕取词，蓝牙遥控等等功能让英语学习更加便捷高效。 我相信英语学习者在AI和创新技术的加持下，都能取得成功。|[iWillDev](https://x.com/iWillDev)|
-|||[]()|
-|||[]()|
-|||[]()|
-|||[]()|
-|||[]()|
+|JJH_Chi|推特是个茶馆  有空就来闲聊目的会意交友  切磋有趣问题  有话请好好说|[JJH_Chi](https://x.com/JJH_Chi)|
+|leiyatsaan|用户体验 & 交互研究爱好者、持续阅读，持续思考，择时分享 🙆🏻‍♂️|[leiyatsaan](https://x.com/leiyatsaan)|
+|Raymond_Hou_|寫電子報給 15000 人；探索現代人的聰明工作，好好生活的方案。獨立內容創作者，空閒時拍些影片|[Raymond_Hou_](https://x.com/Raymond_Hou_)|
+|eryidebiji|热爱研究各种笔记软件与效率工具，写了一套 Notion 付费课程|[eryidebiji](https://x.com/eryidebiji)|
+|Gruff1561002|AI通讯录|[Gruff1561002](https://x.com/Gruff1561002)|
 |||[]()|
 |||[]()|
 |||[]()|
