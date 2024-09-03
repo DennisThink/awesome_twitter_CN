@@ -365,8 +365,19 @@
 |Raymond_Hou_|寫電子報給 15000 人；探索現代人的聰明工作，好好生活的方案。獨立內容創作者，空閒時拍些影片|[Raymond_Hou_](https://x.com/Raymond_Hou_)|
 |eryidebiji|热爱研究各种笔记软件与效率工具，写了一套 Notion 付费课程|[eryidebiji](https://x.com/eryidebiji)|
 |Gruff1561002|AI通讯录|[Gruff1561002](https://x.com/Gruff1561002)|
-|||[]()|
-|||[]()|
+|lvloomystery|独立开发者,内容创作者,简单设计,独立开发前线 VX：Ovelv2023|[lvloomystery](https://x.com/lvloomystery)|
+|noobnooc|作坊 @WeeloneHQ/ 写字台 https://subnooc.com / 数字游民资讯 https://youmin.co / 个人主页|[noobnooc](https://x.com/noobnooc)|
+|lcayu|俺中国語本当上手。|[lcayu](https://x.com/lcayu)|
+|xieisabug|从不追逐梦想，我的梦想在我的背后推着我向前进|[xieisabug](https://x.com/xieisabug)|
+|jrenc2002|人是活在一个个瞬间的，所以大胆的去创造一个个属于你人生的高光时刻吧！|[jrenc2002](https://x.com/jrenc2002)|
+|GoJun315| AIGC 爱好者 前沿 AI 信息 、 AI 实用工具、AI 绘画、开源项目、全网同名|[GoJun315](https://x.com/GoJun315)|
+|WildCat_zh|团队产品：本地优先的稍后阅读，与个人知识库应用 http://infoflow.app　面向未来的记账与会计软件 http://superboox.com [WildCat_zh](https://x.com/WildCat_zh)|
+|suaihk|算法/计算机视觉工程师 / solopreneur / indie dev / NLP / RUC人大 / 数学 / 审稿人 / web3 / 独立开发新手村+数字难民|[suaihk](https://x.com/suaihk)|
+|_wissx|国漫、美剧、积极的悲观主义者|[_wissx](https://x.com/_wissx)|
+|lincolnstark5|【Conservative Innovation 保守派创新】、【INTP 不懂这是啥但接受】、【第5个id，颠沛流离，魂不守舍】、【心安何处，荒凉残破的老房子，酒狗夕阳，雨季漫长..】、【历史社会】【人文艺术】【技术产品】【创业创新】、架构决定趋势和周期...架构周期法则---架构师|[lincolnstark5](https://x.com/lincolnstark5)|
+|kiwiflysky|脚踏实地做梦/独立开发/降临派/在生活的 ICU 中|[kiwiflysky](https://x.com/kiwiflysky)|
+|KumaTea0|扫雷系推主|[KumaTea0](https://x.com/KumaTea0)|
+|__RedForest|很菜的AFOier 想做开发|[__RedForest](https://x.com/__RedForest)|
 |||[]()|
 |||[]()|
 |||[]()|
