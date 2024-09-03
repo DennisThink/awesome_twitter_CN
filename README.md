@@ -378,8 +378,15 @@
 |kiwiflysky|脚踏实地做梦/独立开发/降临派/在生活的 ICU 中|[kiwiflysky](https://x.com/kiwiflysky)|
 |KumaTea0|扫雷系推主|[KumaTea0](https://x.com/KumaTea0)|
 |__RedForest|很菜的AFOier 想做开发|[__RedForest](https://x.com/__RedForest)|
-|||[]()|
-|||[]()|
+|ivyliner|汉字地图|[ivyliner](https://x.com/ivyliner)|
+|oldj|程序员，科幻迷，业余写作爱好者。翻译过一些技术书，开发了并维护着 http://WonderPen.app、http://Tuji.app、SwitchHosts 等软件。|[oldj](https://x.com/oldj)|
+|Hawstein||[Hawstein](https://x.com/Hawstein)|
+|joyqi|乐观的理性主义者|[joyqi](https://x.com/joyqi)|
+|_sluke_|推短emo长|[_sluke_](https://x.com/_sluke_)|
+|sunshineg|支持团队把开源的问答系统 @AnswerDev捐给了 Apache 基金会，正在基金会孵化中。有两只活蹦乱跳的🐱星人，曾经是个话痨，其实是个社恐🤖|[sunshineg](https://x.com/sunshineg)|
+|pythonhunter__|一档关于编程、程序员和 Python的播客|[pythonhunter__](https://x.com/pythonhunter__)|
+|adaaaamwen|欢迎创作者来撩、@pythonhunter__Co-Founder、OSQDU 成员 、喝可乐工程师、Pythonista、会些 Golang、会点C、尝试戒断碳酸饮料失败者、山东青岛、犯病的时候会文艺下|[adaaaamwen](https://x.com/adaaaamwen)|
+|tufucheung|设计师，Swift 开发者。但小时候的愿望是成为作家。|[tufucheung](https://x.com/tufucheung)|
 |||[]()|
 |||[]()|
 |||[]()|
