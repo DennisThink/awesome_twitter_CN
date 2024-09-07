@@ -387,6 +387,18 @@
 |pythonhunter__|一档关于编程、程序员和 Python的播客|[pythonhunter__](https://x.com/pythonhunter__)|
 |adaaaamwen|欢迎创作者来撩、@pythonhunter__Co-Founder、OSQDU 成员 、喝可乐工程师、Pythonista、会些 Golang、会点C、尝试戒断碳酸饮料失败者、山东青岛、犯病的时候会文艺下|[adaaaamwen](https://x.com/adaaaamwen)|
 |tufucheung|设计师，Swift 开发者。但小时候的愿望是成为作家。|[tufucheung](https://x.com/tufucheung)|
+|iamcheyan|作家 · 编剧 · 程序员 / 现居东京|[iamcheyan](https://x.com/iamcheyan)|
+|rickywang233|学习、思考、实践、分享|[rickywang233](https://x.com/rickywang233)|
+|shmily7|-发展方向AI/WEB3　-只想做家小公司　-推特仅个人吐槽|[shmily7](https://x.com/shmily7)|
+|EZFIX_|维修店店主 精修 Mac & iPhone 欢迎交朋友 WeChat: EZFIX_|[EZFIX_](https://x.com/EZFIX_)|
+|dream_qiang|一生温暖纯良，不舍爱与自由、拖延症患者|[dream_qiang](https://x.com/dream_qiang)|
+|wanghao8080|宁皓网作者（https://ninghao.net） ，独立开发者。|[wanghao8080](https://x.com/wanghao8080)|
+|jameszz343698|独立开发 but 独立ing，and 尚未开发：）|[jameszz343698](https://x.com/jameszz343698)|
+|patrici00662047|远离政治，远离是非，唯有美食，任我摆布|[patrici00662047](https://x.com/patrici00662047)|
+|||[]()|
+|||[]()|
+|||[]()|
+|||[]()|
 |||[]()|
 |||[]()|
 |||[]()|
