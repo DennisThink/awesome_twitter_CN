@@ -395,7 +395,7 @@
 |wanghao8080|宁皓网作者（https://ninghao.net） ，独立开发者。|[wanghao8080](https://x.com/wanghao8080)|
 |jameszz343698|独立开发 but 独立ing，and 尚未开发：）|[jameszz343698](https://x.com/jameszz343698)|
 |patrici00662047|远离政治，远离是非，唯有美食，任我摆布|[patrici00662047](https://x.com/patrici00662047)|
-|||[]()|
+|bestlacklock|全职独立开发中：打工人小组件。百分百使用 SwiftUI 开发。打造无广告，追求用户满意度的原生App。|[bestlacklock](https://x.com/bestlacklock)|
 |||[]()|
 |||[]()|
 |||[]()|
