@@ -396,9 +396,9 @@
 |jameszz343698|独立开发 but 独立ing，and 尚未开发：）|[jameszz343698](https://x.com/jameszz343698)|
 |patrici00662047|远离政治，远离是非，唯有美食，任我摆布|[patrici00662047](https://x.com/patrici00662047)|
 |bestlacklock|全职独立开发中：打工人小组件。百分百使用 SwiftUI 开发。打造无广告，追求用户满意度的原生App。|[bestlacklock](https://x.com/bestlacklock)|
-|||[]()|
-|||[]()|
-|||[]()|
+|FeigelC35583|简单点，说话的方式简单点、好奇心严重、不喷人但喷起来不是人的网络喷子、在尝试独立开发、爱动漫、曾经的lol网瘾少年|[FeigelC35583](https://x.com/FeigelC35583)|
+|https://x.com/fyfyfm|(有Fo必回) 听见科技与人文的声音。一档由开发者 @mapleshadow　和数字游民 @hzlzh主持的播客节目。我们还制作了播客中文榜：http://xyzrank.com，帮你找到喜欢的节目。|[fyfyfm](https://x.com/fyfyfm)|
+|silosrc|开源趣味，Linux Kernel，Fullstack（伪）。一切如烟花般转瞬即逝，必须要更努力才行。奇迹和魔法，一定是存在的… 时间啊，走得再慢一些吧。我呀，走得再快一些吧。|[silosrc](https://x.com/silosrc)|
 |||[]()|
 |||[]()|
 |||[]()|
