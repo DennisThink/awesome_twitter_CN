@@ -400,7 +400,7 @@
 |https://x.com/fyfyfm|(有Fo必回) 听见科技与人文的声音。一档由开发者 @mapleshadow　和数字游民 @hzlzh主持的播客节目。我们还制作了播客中文榜：http://xyzrank.com，帮你找到喜欢的节目。|[fyfyfm](https://x.com/fyfyfm)|
 |silosrc|开源趣味，Linux Kernel，Fullstack（伪）。一切如烟花般转瞬即逝，必须要更努力才行。奇迹和魔法，一定是存在的… 时间啊，走得再慢一些吧。我呀，走得再快一些吧。|[silosrc](https://x.com/silosrc)|
 |expatlevi|indiehacker，东南亚数字游民 、分享出海工具、海外产品增长、地理套利、游民生活|[expatlevi](https://x.com/expatlevi)|
-|||[]()|
+|modaotool|设计师和产品经理的工具箱|[modaotool](https://x.com/modaotool)|
 |||[]()|
 |||[]()|
 |||[]()|
