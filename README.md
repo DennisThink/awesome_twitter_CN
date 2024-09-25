@@ -24,8 +24,8 @@
 > [nishuang](https://x.com/nishuang) 
 > **推荐理由**：倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务.
 
-＞[dotey](https://x.com/dotey)
-＞**推荐理由**： 宝玉，分享最新的AI资讯，分享Prompt的编写方法，带你更好的学习AI。　
+> [dotey](https://x.com/dotey)
+> **推荐理由**： 宝玉，分享最新的AI资讯，分享Prompt的编写方法，带你更好的学习AI。　
 
 ## 领域
 
