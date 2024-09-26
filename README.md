@@ -15,16 +15,16 @@
 > **推荐理由**：学习博主, 理科妈妈。女性转CS/EE，我劝文科生用GPT学CS，理科生用GPT写文学。探讨免费的STEM高等教育。
 > STEM Education, computer science, electronics engineering方向。
 
-> [yuxiyou](https://x.com/yuxiyou)        
+> [yuxiyou](https://x.com/yuxiyou)            
 > **推荐理由**： 著名前端框架Vue的作者。
 
-> [xushiwei](https://x.com/xushiwei)      
+> [xushiwei](https://x.com/xushiwei)          
 > **推荐理由**： WPS 2005 的首席架构师,曾在盛大、金山从事技术研究工作。七牛云存储的CEO，golang布道者。go+作者。著有《Go语言编程》。
 
-> [nishuang](https://x.com/nishuang) 
+> [nishuang](https://x.com/nishuang)    
 > **推荐理由**：倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌设计、UX 设计两类设计咨询服务.
 
-> [dotey](https://x.com/dotey)
+> [dotey](https://x.com/dotey)    
 > **推荐理由**： 宝玉，分享最新的AI资讯，分享Prompt的编写方法，带你更好的学习AI。　
 
 ## 领域
@@ -404,8 +404,8 @@
 |silosrc|开源趣味，Linux Kernel，Fullstack（伪）。一切如烟花般转瞬即逝，必须要更努力才行。奇迹和魔法，一定是存在的… 时间啊，走得再慢一些吧。我呀，走得再快一些吧。|[silosrc](https://x.com/silosrc)|
 |expatlevi|indiehacker，东南亚数字游民 、分享出海工具、海外产品增长、地理套利、游民生活|[expatlevi](https://x.com/expatlevi)|
 |modaotool|设计师和产品经理的工具箱|[modaotool](https://x.com/modaotool)|
-|||[]()|
-|||[]()|
+|recatm|西乔、《神秘的程序员》漫画作者|[recatm](https://x.com/recatm)|
+|abskoop|收集分享各种互联网垃圾|[abskoop](https://x.com/abskoop)|
 |||[]()|
 |||[]()|
 |||[]()|
