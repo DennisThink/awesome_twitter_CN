@@ -407,7 +407,7 @@
 |recatm|西乔、《神秘的程序员》漫画作者|[recatm](https://x.com/recatm)|
 |abskoop|收集分享各种互联网垃圾|[abskoop](https://x.com/abskoop)|
 |shuziyimin|肉体和精神，总要有一个是自由的。个人发起的非盈利媒体计划。|[shuziyimin](https://x.com/shuziyimin)|
-|||[]()|
+|sunbelife|iBeta尝鲜派创始人、Pasty 水印相机作者、无派科技 CEO|[sunbelife](https://x.com/sunbelife)|
 |||[]()|
 |||[]()|
 |||[]()|
