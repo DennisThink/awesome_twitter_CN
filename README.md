@@ -5,6 +5,9 @@
 
 ### DennisThink推荐:
 
+> [DennisThink](https://x.com/YanHuiMi)
+> **推荐理由**: awesome_twitter_CN作者，软件工程师，喜欢分享有趣和好玩的内容，分享思考的idea.
+
 > [reiheitYu](https://x.com/FreiheitYu)    
 > **推荐理由**: 作为技术翻译者，译有《精通正则表达式》《代码整洁之道》《成为技术领导者》 《技术领导之路(中英文对照)》《简约之美》《程序员的职业素养》等作品。其公众号《余晟以为》也非常的不错，推荐大家关注。
 
@@ -408,7 +411,7 @@
 |abskoop|收集分享各种互联网垃圾|[abskoop](https://x.com/abskoop)|
 |shuziyimin|肉体和精神，总要有一个是自由的。个人发起的非盈利媒体计划。|[shuziyimin](https://x.com/shuziyimin)|
 |sunbelife|iBeta尝鲜派创始人、Pasty 水印相机作者、无派科技 CEO|[sunbelife](https://x.com/sunbelife)|
-|||[]()|
+|frostming90|赵客缦胡缨，吴钩霜雪明 🐍Python developer / PyPA member|[frostming90](https://x.com/frostming90)|
 |||[]()|
 |||[]()|
 |||[]()|
