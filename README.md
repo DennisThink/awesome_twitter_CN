@@ -412,7 +412,7 @@
 |shuziyimin|肉体和精神，总要有一个是自由的。个人发起的非盈利媒体计划。|[shuziyimin](https://x.com/shuziyimin)|
 |sunbelife|iBeta尝鲜派创始人、Pasty 水印相机作者、无派科技 CEO|[sunbelife](https://x.com/sunbelife)|
 |frostming90|赵客缦胡缨，吴钩霜雪明 🐍Python developer / PyPA member|[frostming90](https://x.com/frostming90)|
-|||[]()|
+|richardchang|资深互联网从业者，专心研究AI中~|[richardchang](https://x.com/richardchang)|
 |||[]()|
 |||[]()|
 |||[]()|
