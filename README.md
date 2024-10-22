@@ -413,7 +413,7 @@
 |sunbelife|iBeta尝鲜派创始人、Pasty 水印相机作者、无派科技 CEO|[sunbelife](https://x.com/sunbelife)|
 |frostming90|赵客缦胡缨，吴钩霜雪明 🐍Python developer / PyPA member|[frostming90](https://x.com/frostming90)|
 |richardchang|资深互联网从业者，专心研究AI中~|[richardchang](https://x.com/richardchang)|
-|||[]()|
+|ljlvchris|Software Engineer-🤔Learn to be an Indie Hacker-🧠AI Explorer-🟠 Cloudflare 布道-个人博客 http://ljlv.site-个人公众号：DeBill独立开发|[ljlvchris](https://x.com/ljlvchris)|
 |||[]()|
 |||[]()|
 |||[]()|
