@@ -415,7 +415,7 @@
 |richardchang|资深互联网从业者，专心研究AI中~|[richardchang](https://x.com/richardchang)|
 |ljlvchris|Software Engineer-🤔Learn to be an Indie Hacker-🧠AI Explorer-🟠 Cloudflare 布道-个人博客 http://ljlv.site-个人公众号：DeBill独立开发|[ljlvchris](https://x.com/ljlvchris)|
 |Guoxiaoli0|原则科技 CEO　目前在做［原则](http://yuanze.com)之前做过：芦笋录屏https://lusun.com　幕布笔记 |[Guoxiaoli0](https://x.com/Guoxiaoli0)|
-|||[]()|
+|sun0225SUN| 前端小学生（React）-📸 摄影爱好者（Nikon Zfc）-🛸 旅行探索家（体验派）-🚴 骑行蹭风选手（ Java 鱼雷 6-top ）-🍎 科技产品发烧友（苹果&小米）|[sun0225SUN](https://x.com/sun0225SUN)|
 |||[]()|
 |||[]()|
 |||[]()|
