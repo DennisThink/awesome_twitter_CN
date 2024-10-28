@@ -416,9 +416,9 @@
 |ljlvchris|Software Engineer-🤔Learn to be an Indie Hacker-🧠AI Explorer-🟠 Cloudflare 布道-个人博客 http://ljlv.site-个人公众号：DeBill独立开发|[ljlvchris](https://x.com/ljlvchris)|
 |Guoxiaoli0|原则科技 CEO　目前在做［原则](http://yuanze.com)之前做过：芦笋录屏https://lusun.com　幕布笔记 |[Guoxiaoli0](https://x.com/Guoxiaoli0)|
 |sun0225SUN| 前端小学生（React）-📸 摄影爱好者（Nikon Zfc）-🛸 旅行探索家（体验派）-🚴 骑行蹭风选手（ Java 鱼雷 6-top ）-🍎 科技产品发烧友（苹果&小米）|[sun0225SUN](https://x.com/sun0225SUN)|
-|||[]()|
-|||[]()|
-|||[]()|
+|Larry_LiDev|热爱自由的App独立开发者 📱做了小懒喵\喵一会\懒猫存钱\HomeTime 🏕 分享优质设计资源&记录App日常，偶尔分享生活|[Larry_LiDev](https://x.com/Larry_LiDev)|
+|xiaobai_0322|👨ENFJ🇯🇵来日十年。📷分享日常。🏠定居日本。💼在做AI相关的事情。🚶计划旅游相关事情，希望大家多多提携！|[xiaobai_0322](https://x.com/xiaobai_0322)|
+|wangyuanzju|计算机博士 @ZJU_China\GenAI创业\前网易副总裁，0到1孵化云音乐/严选/云课堂/易盾/数帆\摇滚|[wangyuanzju](https://x.com/wangyuanzju)|
 |||[]()|
 |||[]()|
 |||[]()|
