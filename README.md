@@ -419,7 +419,7 @@
 |Larry_LiDev|热爱自由的App独立开发者 📱做了小懒喵\喵一会\懒猫存钱\HomeTime 🏕 分享优质设计资源&记录App日常，偶尔分享生活|[Larry_LiDev](https://x.com/Larry_LiDev)|
 |xiaobai_0322|👨ENFJ🇯🇵来日十年。📷分享日常。🏠定居日本。💼在做AI相关的事情。🚶计划旅游相关事情，希望大家多多提携！|[xiaobai_0322](https://x.com/xiaobai_0322)|
 |wangyuanzju|计算机博士 @ZJU_China\GenAI创业\前网易副总裁，0到1孵化云音乐/严选/云课堂/易盾/数帆\摇滚|[wangyuanzju](https://x.com/wangyuanzju)|
-|||[]()|
+|wuhanomad|你要是爱上我，你就自己找晦气；我要是爱上你，你就死在我手里。|[wuhanomad](https://x.com/wuhanomad)|
 |||[]()|
 |||[]()|
 |||[]()|
