@@ -421,7 +421,7 @@
 |wangyuanzju|计算机博士 @ZJU_China\GenAI创业\前网易副总裁，0到1孵化云音乐/严选/云课堂/易盾/数帆\摇滚|[wangyuanzju](https://x.com/wangyuanzju)|
 |wuhanomad|你要是爱上我，你就自己找晦气；我要是爱上你，你就死在我手里。|[wuhanomad](https://x.com/wuhanomad)|
 |daiming_cn|iOS、macOS 平台 Swift 开发者，极客时间《iOS开发高手课》和纸书《跟戴铭学iOS编程》作者。Github：https://github.com/ming1016|[daiming_cn](https://x.com/daiming_cn)|
-||chuckchen_zh|💻 AI构建者，前B轮初创CXO，自启动构建，写下的才是我能思考的，中文分身[chuckchen_zh](https://x.com/chuckchen_zh)|
+|chuckchen_zh|💻 AI构建者，前B轮初创CXO，自启动构建，写下的才是我能思考的，中文分身|[chuckchen_zh](https://x.com/chuckchen_zh)|
 |||[]()|
 |||[]()|
 |||[]()|
