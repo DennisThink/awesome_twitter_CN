@@ -424,10 +424,10 @@
 |chuckchen_zh|💻 AI构建者，前B轮初创CXO，自启动构建，写下的才是我能思考的，中文分身|[chuckchen_zh](https://x.com/chuckchen_zh)|
 |MaimaiLee123|互联网私域电商－EDC设计－刀具博主－二级运动员－体育教练－炒点美股－科技=战斗力－INTJ-Python学习中💻|[MaimaiLee123](https://x.com/MaimaiLee123)|
 |yuyy614893671|金融市场老兵. Former Investment manager. 观察和理解这个世界每天在发生着什么，是我的兴趣也是工作。X上的内容只是分享，不是投资建议。|[yuyy614893671](https://x.com/yuyy614893671)|
-|||[]()|
-|||[]()|
-|||[]()|
-|||[]()|
+|yfx0202|医学生的笔记|[yfx0202](https://x.com/yfx0202)|
+|s1ntone|macOS独立开发者、效率工具爱好者@cleanclipapp创造者 - 重新定义剪贴板管理@macaify开发者 - 让 ChatGPT 融入 macOS 生态、🌊 独立开发航海日志，分享出海心得与技巧💡 用代码打造更智能的工作方式|[s1ntone](https://x.com/s1ntone)|
+|Everywhere0521|24岁-学生-本科是臭学物理的-小厂写了一年Delphi-筑波大学计算机修士在读-思维废料生产器|[Everywhere0521](https://x.com/Everywhere0521)|
+|o12er_banana|开源爱好者，@kanaries_data创始人，@ob12er的中文号；正在构建http://lab2.dev|[o12er_banana](https://x.com/o12er_banana)|
 |||[]()|
 |||[]()|
 |||[]()|
