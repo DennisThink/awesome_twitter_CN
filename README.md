@@ -53,7 +53,8 @@
 |dotey|最新AI资讯|[dotey](https://x.com/dotey)|
 |manateelazycat|Deepin|[manateelazycat](https://x.com/manateelazycat)|
 |middlefeng|C++, Graphics|[middlefeng](https://x.com/middlefeng)|
-|javayhu|海棠诗社|[javayhu](https://x.com/javayhu)|
+|DLKFZWilliam|独立开发者|[DLKFZWilliam](https://x.com/DLKFZWilliam)|
+|Indie Maker Hu|Mkdirs + IndieHub + 海棠诗社|[javay_hu](https://x.com/javay_hu)|
 |nextify2024|saasfly作者|[nextify2024](https://x.com/nextify2024)|
 |xiongchun007|Datacollie作者|[xiongchun007](https://x.com/xiongchun007)|
 |yihong0618|喜欢王小波|[yihong0618](https://x.com/yihong0618)|
