@@ -53,7 +53,6 @@
 |dotey|最新AI资讯|[dotey](https://x.com/dotey)|
 |manateelazycat|Deepin|[manateelazycat](https://x.com/manateelazycat)|
 |middlefeng|C++, Graphics|[middlefeng](https://x.com/middlefeng)|
-|javayhu|海棠诗社|[javayhu](https://x.com/javayhu)|
 |nextify2024|saasfly作者|[nextify2024](https://x.com/nextify2024)|
 |xiongchun007|Datacollie作者|[xiongchun007](https://x.com/xiongchun007)|
 |yihong0618|喜欢王小波|[yihong0618](https://x.com/yihong0618)|
@@ -65,7 +64,6 @@
 |Linmiv|Notion 中文社区负责人|[Linmiv](https://x.com/Linmiv)|
 |chenbimo|农村程序员 + 网文小说作者|[chenbimo](https://x.com/chenbimo)|
 |feltanimalworld|学习博主, 理科妈妈。|[feltanimalworld](https://x.com/feltanimalworld)|
-|mrbear1024|熊老板、学习型博主|[mrbear1024](https://x.com/mrbear1024)|
 |xiaopeng163|Cloud DevOps Engineer，麦兜搞IT|[xiaopeng163](https://x.com/xiaopeng163)|
 |AgileQuery|Agile Query作者|[AgileQuery](https://x.com/AgileQuery)|
 |tison1096||[tison1096](https://x.com/tison1096)|
@@ -412,7 +410,7 @@
 |sunbelife|iBeta尝鲜派创始人、Pasty 水印相机作者、无派科技 CEO|[sunbelife](https://x.com/sunbelife)|
 |frostming90|赵客缦胡缨，吴钩霜雪明 🐍Python developer / PyPA member|[frostming90](https://x.com/frostming90)|
 |richardchang|资深互联网从业者，专心研究AI中~|[richardchang](https://x.com/richardchang)|
-|ljlvchris|Software Engineer-🤔Learn to be an Indie Hacker-🧠AI Explorer-🟠 Cloudflare 布道-个人博客 http://ljlv.site-个人公众号：DeBill独立开发|[ljlvchris](https://x.com/ljlvchris)|
+|DeBill_me|Software Engineer-🤔Learn to be an Indie Hacker-🧠AI Explorer-🟠 Cloudflare 布道-个人博客 http://ljlv.site-个人公众号：DeBill独立开发|[DeBill_me](https://x.com/DeBill_me)|
 |Guoxiaoli0|原则科技 CEO　目前在做［原则](http://yuanze.com)之前做过：芦笋录屏https://lusun.com　幕布笔记 |[Guoxiaoli0](https://x.com/Guoxiaoli0)|
 |sun0225SUN| 前端小学生（React）-📸 摄影爱好者（Nikon Zfc）-🛸 旅行探索家（体验派）-🚴 骑行蹭风选手（ Java 鱼雷 6-top ）-🍎 科技产品发烧友（苹果&小米）|[sun0225SUN](https://x.com/sun0225SUN)|
 |Larry_LiDev|热爱自由的App独立开发者 📱做了小懒喵\喵一会\懒猫存钱\HomeTime 🏕 分享优质设计资源&记录App日常，偶尔分享生活|[Larry_LiDev](https://x.com/Larry_LiDev)|
